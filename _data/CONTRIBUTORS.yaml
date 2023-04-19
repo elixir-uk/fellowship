@@ -1,0 +1,184 @@
+# List of contributors
+#
+# reference maintainers/contributors by their name used in contributors metadata section on the pages.
+# Extra metadata that is possible to add:
+# Full Name:
+#    git: github id
+#    email: email adress
+#    orcid: ocrid id
+#    role: the role of the contributor
+#    affiliation: affiliation
+#    image_url: absolute path to image (default image from github)
+
+Xenia Perez Sitja:
+    git: sitjart
+    email: 
+    orcid: 
+    role: Project team
+    affiliation: University of Bradford/ELIXIR-UK
+Khlaed Jumah:
+    git: khaled196
+    orcid: 
+    role: Collaborator
+    affiliation: University of Bradford/ELIXIR-UK
+Katarzyna Kamieniecka:
+    git: kkamieniecka
+    role: Project team
+    orcid: 
+    affiliation: University of Bradford/ELIXIR-UK
+Adam Partridge:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/3cd868c0-38dc-4ce2-92b0-dcb20a993208/02-cohort_adam-partridge-profile-picture.jpg
+Alexia Cardona:
+    git:
+    role: Mentor
+    image_url: https://elixiruknode.org/wp-content/uploads/2022/04/alexia-cardona-profile-picture
+Allyson Lister:
+    git: allysonlister
+    role: Mentor
+    image_url:
+Andrew Mason:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/d97c2f6d-af56-489a-b29b-6d0c79cce817/andrew-mason_profile-picture-e1652256971142-160x160.jpeg
+Annabel Cansdale:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/32b2d00b-15f8-4d53-af26-c98fcfb5218d/annabel-cansdale_profile-picture-e1652256326309-160x160.jpeg
+Carole Goble:
+    git: CaroleGoble
+    role: Project team
+    image_url:
+Catherine Knox:
+    git: 
+    role: Project team
+    image_url: https://www.earlham.ac.uk/sites/default/files/styles/max_650x650/public/2023-02/catherine-knox-web-profile-NEW.jpg?itok=VCyJXnB-
+Ciara Loughrey:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/3825bbc8-0afe-4e4c-aa61-d5b931756185/me.jpg
+Diane Hatziioanou:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/149b8b19-55f4-430d-a10e-c65c9773d7a0/20220710picture.jpg
+Edward Parkinson:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/60ea05f3-6183-43c5-bba9-e64f2ac94788/ep_profile_photo.jpeg
+Elvina Gountouna:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/31a38666-efc9-4ba7-b55d-3d5b4b22e8f5/ElvinaGountouna.jpg
+Emily Angiolini:
+    git: 
+    role: Mentor
+    image_url: https://www.earlham.ac.uk/sites/default/files/styles/image_1c_desktop_1x/public/images/profiles/Emily%20Angiolini/emily-angiolini-web.jpg?itok=VbY1d411
+Emily Delva:
+    git: 
+    role: Project team
+    image_url: https://www.earlham.ac.uk/sites/default/files/styles/max_650x650/public/2023-02/emily-delva-web-profile.jpg?itok=YE7rEOvK
+Emma Karoune:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/72163211-7b69-4c5d-9fdf-a6582757b361/emma-karoune_profile-picture-e1652256612187-160x160(1).jpg
+Gabriela Lopez-Gonzalez:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/8b291738-6040-41f4-82d6-6616486d6f55/20220710_222449.jpg
+Korneel Hens:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/e4883261-6d72-4ca5-8b56-c093116a9e7e/Korneel%20Hens.jpg
+Krister Jazz Urog:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/ac9bde09-d0a5-47ac-816a-abc45135a055/JazzUrog.jpg
+Krzysztof Poterlowicz:
+    git: poterlowicz-lab
+    role: Project team
+    image_url:
+Laura Cooper:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/44bf5f33-f9f9-4550-b0e5-deb6e00ccb2f/laura-coper_profile-picture-e1652256429730-160x160(1).png
+Lijing Lin:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/ebc6c665-52a1-4ccd-9673-10f321632dde/LijingLin-160x160.jpg
+Martin Wolstencroft:
+    git: 
+    role: Mentor
+    image_url: 
+Manuel Lera Ramirez:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/06735fcf-59f6-4e1a-b12b-c262401b403e/LeraRamirez_profile.jpeg
+Munazah Andrabi:
+    git: smza
+    role: Mentor
+    image_url:
+Neil Hall:
+    git: smza
+    role: Project team
+    image_url: https://www.earlham.ac.uk/sites/default/files/styles/image_1c_desktop_1x/public/2022-07/neil-hall-web-profile.jpg?itok=UkCZ__Jl
+Nick Juty:
+    git: 
+    role: Mentor
+    image_url:
+Nilam Khan:
+    git:
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/bcc01ade-6970-4948-be76-8b2843689e03/NKhan%20copy.jpg
+Phillip Crout:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/0697992c-965f-49e3-8b65-49e84a6bd49b/resized_thumb.png
+Richard Ostler:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/be3ebb05-b040-4199-a122-aef425a73950/20220708_112552.jpg
+Rob Ewing:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/a12e5e99-2ef1-485d-ae18-b430745c0adf/rob_ewing_profile_pic3.jpg
+Robert Andrews:
+    git: robertmand
+    role: Project team
+    image_url:
+Sandra Ng:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/73945fc8-f824-4fe3-8b8c-8d02bbbc23b9/Photo.jpg
+Saskia Lawson-Tovey:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/d15bd8ba-1f5b-4fe4-8669-a2cc4737f410/saskia-lawson-tovey_profile-picture-e1652256365935-160x160(1).jpg
+Shoaib Sufi:
+    git: 
+    role: Project team
+    image_url: https://elixiruknode.org/wp-content/uploads/2022/04/Shoaib_0-e1652195694693-160x160.jpeg
+Sonal Henson:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/42104659-0e67-442e-b2c7-db75089fa7b5/Profile%20photo-2.jpg
+Susanna-Assunta Sansone:
+    git: SusannaSansone
+    role: Project team
+    image_url: 
+Tim Beck:
+    git: 
+    role: Mentor
+    image_url: https://elixiruknode.org/wp-content/uploads/2022/04/tim-beck-profile-picture
+Toryn Poolman:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/da3023c7-3e0c-42e6-a1c1-b17c033bb0e0/Toryn%20Poolman.jpeg
+Vasileios Panagiotis Lenis:
+    git: 
+    role: Fellow
+    image_url: https://t20526645.p.clickup-attachments.com/t20526645/46e1d0c8-8efe-49e1-b45a-3e366248d00e/Photo%20on%2011-02-2021%20at%2009.13%20%234.jpg
+Wendi Bacon:
+    git: 
+    role: Mentor
+    image_url:

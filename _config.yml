@@ -1,0 +1,94 @@
+title: ELIXIR-UK Fellowship
+# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
+
+description: "A Fellowship of UK ambassadors to build capacity in RDM for the life sciences"
+# Metadata description of the website
+
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.25.0
+
+sass:
+  style: compressed
+  sourcemap: never
+
+gtag: 
+# Google analytics tag
+
+# dsw_deep_link_prefix: https://researchers.ds-wizard.org/knowledge-models/dsw:root:latest/preview?questionUuid=
+# prefix for DSW deep links to a certain question
+
+
+exclude:
+  - README.md
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      permalink: /:basename
+      layout: "page"
+      search_exclude: false
+  -
+    scope:
+      path: "pages/events/TEMPLATE_event.md"
+      type: "pages"
+    values:
+      sitemap: false
+      search_exclude: true
+      no_robots: true
+  -
+    scope:
+      path: "pages/rdmbites/TEMPLATE_collection.md"
+      type: "pages"
+    values:
+      sitemap: false
+      search_exclude: true
+      no_robots: true
+  -
+    scope:
+      path: "pages/course-materials/TEMPLATE_course.md"
+      type: "pages"
+    values:
+      sitemap: false
+      sidebar: 
+      search_exclude: true
+      no_robots: true
+  -
+    scope:
+      path: "pages/events"
+    values:
+      type: events
+      datatable: false
+      sidebar: events
+  -
+    scope:
+      path: "pages/about"
+    values:
+      sidebar: about
+  -
+    scope:
+      path: "pages/training_materials"
+    values:
+      sidebar: training_materials
+      type: training_materials
+  -
+    scope:
+      path: "pages/training_materials/course_materials"
+    values:
+      type: course_materials
+  -
+    scope:
+      path: "pages/training_materials/rdmbites"
+    values:
+      type: RDMbites
+  -
+    scope:
+      path: "pages/training_materials/recommended_resources"
+    values:
+     type: recommended_resources
+
+plugins:
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-sitemap

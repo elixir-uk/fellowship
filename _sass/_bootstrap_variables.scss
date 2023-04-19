@@ -1,0 +1,43 @@
+/*-----Theme colors-----*/
+$white: #ffffff;
+$blue: #037EAB;
+$gray-600: #73757d;
+$orange: #F47D20;
+$light-orange: #fee1c8;
+$light: #f2f5f7;
+$light-x: #9bcbdd;
+$dark-blue: #023452;
+$light-blue: #b3d8e5;
+
+/*-----Custom values for Bootstrap variables-----*/
+$component-active-bg: $blue;
+$navbar-dark-color: $light-x;
+$navbar-dark-hover-color: $light-x;
+$navbar-dark-toggler-border-color: transparent;
+$border-radius: 0.3rem;
+$btn-border-radius-sm: $border-radius;
+$card-border-width: 0;
+$card-cap-bg: $light-x;
+$link-color: $orange;
+$info: $blue;
+$link-decoration: underline;
+$body-bg: $white;
+$body-color: $dark-blue;
+$font-family-sans-serif: "Lato", sans-serif;
+$alert-border-width: 0;
+$input-group-addon-bg: $light-x;
+$input-bg: $light;
+$input-border-width: 0;
+$h1-font-size: 1rem * 3.5 !default;
+$h3-font-size: 1rem * 1.5 !default;
+$h4-font-size: 1rem * 1.1 !default;
+$h5-font-size: 1rem !default;
+$h6-font-size: 1rem !default;
+
+// Responsive Variables
+$desktop: 'only screen and (min-width: 1400px)';
+$laptop: 'only screen and (min-width: 1200px) and (max-width: 1399px)';
+$lg : 'only screen and (min-width: 992px) and (max-width: 1199px)';
+$md:'only screen and (min-width: 768px) and (max-width: 991px)';
+$xs:'(max-width: 767px)';
+$sm: 'only screen and (min-width: 576px) and (max-width: 767px)';

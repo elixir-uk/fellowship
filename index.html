@@ -1,0 +1,234 @@
+---
+search_exclude: false
+layout: none
+---
+
+<!doctype html>
+<html lang="en">
+{% include head.html %}
+
+
+<body>
+    {% include topnav.html search=false %}
+    
+    <div class="landingpage">
+
+<!--- landing banner -->
+        <section id="home" class="banner-area">
+            <div class="banner-content-wrapper">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-lg-4">
+                            <h1>ELIXIR-UK Fellowship</h1>
+                            <p>Aiming to embed <strong>Research Data Management (RDM)</strong> know-how into UK universities and institutes, ELIXIR-UK Fellows create training materials to deliver them locally</p>
+                            <p>All resources are open and available to the broader research community in an effort to build a community of practice around RDM in the <strong>life sciences</strong></p>
+                            <a class="home" href="training_materials">
+                                <button type="button" class="home-button">Discover training materials</button>
+                            </a>
+                        </div>
+                        <div class="col-lg-8">
+                            <div class="banner-image">
+                                <div class="image">
+                                    <img src="assets/img/home-banner.svg">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+<!--- counters -->
+            <div class="banner-counter">
+                <div class="container">
+                    <div class="counter-wrapper">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-3 col-sm-6 ">
+                                <div class="single-counter">
+                                    <span class="count-content"><strong class="count">24</strong><span>/</span> Fellows</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-sm-6">
+                                <div class="single-counter">
+                                    <span class="count-content"><strong class="count">19</strong><span>/</span> UK research-performing organisations</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-sm-6">
+                                <div class="single-counter">
+                                    <span class="count-content"><strong class="count">44</strong><span>/</span> Short training videos</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-sm-6">
+                                <div class="single-counter">
+                                    <span class="count-content"><strong class="count">2</strong><span>/</span> Course materials</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+
+<!--====== Features Start ======-->
+
+<section id="features" class="features-area">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="section-title text-center">
+                    <h2 class="title no-anchor">Our training materials</h2>
+                </div>
+            </div>
+        </div>
+        <div class="features-wrapper">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="single-features features-1">
+                        <a href="rdmbites">
+                            <img src="assets/img/icons/rdmbites-icon.svg" class="h-icon-6 mx-auto" alt="RDMbites icon">
+                        </a>
+                        <div class="features-content">
+                            <h4 class="features-title"><a href="rdmbites">RDMbites</a></h4>
+                            <p>Bites of content in the form of videos to train in basic and specialised research data management aspects</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                        <div class="single-features features-1">
+                            <a href="course-materials">
+                                <img src="assets/img/icons/course-materials-icon.svg" class="h-icon-6 mx-auto" alt="Course materials icon">
+                            </a>
+                            <div class="features-content">
+                                <h4 class="features-title"><a href="course_materials">Course materials</a></h4>
+                                <p>Open materials to train the life sciences workfroce with short courses or workshops on all things data management
+                                </p>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-lg-4">
+                        <div class="single-features features-1">
+                            <a href="recommended-resources">
+                                <img src="assets/img/icons/course-materials-icon.svg" class="h-icon-6 mx-auto" alt="Recommended resource icon">
+                            </a>
+                            <div class="features-content">
+                                <h4 class="features-title"><a href="recommended_resources">Recommended resources</a></h4>
+                                <p>A curated list of FAIR training resources on research data management</p>
+                            </div>
+                        </div>
+                </div>
+        </div>
+    </div>
+</section>
+
+
+<!--  Browser functionality
+      </section>
+        <section id="search-section" class="bg-light py-5">
+            <div class="container">
+                <div class="row">
+                    <h2 class="no-anchor text-center mb-3">What can we help you find?</h2>
+                    <div class="position-relative">
+                        <div class="d-flex justify-content-center">
+                            <form role="search" class="input-group">
+                                <span class="input-group-text" id="search-label"><i class="fa-solid fa-magnifying-glass"></i></span>
+                                <input type="search" id="search-input" class="search-input form-control form-control-lg bg-white" tabindex="0"
+                                    placeholder="Search {{ site.title }}" aria-label="Search {{ site.title }}" autocomplete="off">
+                            </form>
+                            <div id="search-results" class="search-results"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+-->
+
+<!--default content boxes
+        <section class="bg-light pb-5">
+            <div class="container">
+                {%- assign sidebar = site.data.sidebars[page.sidebar] %}
+                <div class="row row-cols-1 row-cols-sm-2">
+                    {%- for folder in sidebar.subitems %}
+                    <div class="col">
+                            <div class="card bg-white h-100">
+                                <img src="{{folder.image_url | relative_url}}" class="card-img-top h-icon-6 mx-auto" alt="{{folder.title}} icon">
+                                <div class="card-body text-center">
+                                    <a href="{{ folder.url | relative_url }}" class="stretched-link">
+                                        <h3 class="card-title no-anchor text-primary">{{folder.title}}</h3>
+                                    </a>
+                                    <p class="card-text">{{folder.description}}</p>
+                                </div>
+                            </div>
+                    </div>
+                    {%- endfor %}
+                </div>
+            </div>
+        </section>
+-->
+
+<!-- news and events -->
+<!-- 
+        <section class="py-5 bg-light">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                    {% include news.html caption=true title=true limit=3 %}
+                    </div>
+                    <div class="col-lg-6 mt-3 mt-lg-0">
+                    {% include events.html title=true event_type="upcoming_event"%}
+                    </div>
+                </div>
+            </div>
+        </section>
+-->
+
+
+    </div>
+    {%- if site.theme_variables.back_to_top or site.theme_variables.back_to_top == nil %}
+    <button id="back-to-top" class="btn btn-primary" type="button" aria-hidden="true" onclick="topFunction()">
+        <i class="fa-solid fa-arrow-up"></i><span class="ms-2 d-none d-sm-inline">Back to top</span>
+    </button>
+    {%- endif %}
+    {% include footer.html %}
+    {% include cookie-popup.html %}
+</body>
+
+</html>
+
+<script type="text/javascript">
+    /** 
+     * Animate numbers when in viewport
+     */
+
+    // inViewport jQuery plugin
+    // https://stackoverflow.com/a/26831113/383904
+    $(function ($, win) {
+        $.fn.inViewport = function (cb) {
+            return this.each(function (i, el) {
+                function visPx() {
+                    var H = $(this).height(),
+                        r = el.getBoundingClientRect(), t = r.top, b = r.bottom;
+                    return cb.call(el, Math.max(0, t > 0 ? H - t : (b < H ? b : H)));
+                } visPx();
+                $(win).on("resize scroll", visPx);
+            });
+        };
+    }(jQuery, window));
+
+
+    jQuery(function ($) { // DOM ready and $ in scope
+        $(".count-number").inViewport(function (px) { // Make use of the `px` argument!!!
+            if (px > 0 && !this.initNumAnim) {
+                this.initNumAnim = true; // Set flag to true to prevent re-running the same animation
+                $(this).prop('Counter', 0).animate({
+                    Counter: $(this).text()
+                }, {
+                    duration: 1000,
+                    step: function (now) {
+                        $(this).text(Math.ceil(now));
+                    }
+                });
+            }
+        });
+
+    });
+
+</script>

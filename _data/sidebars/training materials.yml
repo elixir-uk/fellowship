@@ -1,0 +1,35 @@
+title: Training materials
+title_url: /training_materials
+subitems:
+  - title: RDMbites
+    description: short informative videos (3_5 minutes) to describe basic and specialised aspects of RDM
+    url: /rdmbites
+    image_url: /assets/img/icons/rdmbites_icon.svg
+    subitems:
+      - title: Bioimage collection
+        url: /bioimage_collection
+      - title: Data management essentials collection
+        url: /data_management_essentials_collection
+      - title: REDCap collection
+        url: /redcap_collection
+      - title: Sensitive data collection
+        url: /sensitive_data_collection
+      - title: Sequencing data collection
+        url: /seq_data_collection
+  - title: Course materials
+    description: course materials open to the entire research community on basic and specialised aspects of RDM
+    url: /course_materials
+    image_url: /assets/img/icons/course_materials_icon.svg
+    subitems:
+      - title: Bioimage metadata course
+        url: /bioimage_metadata_course
+      - title: Introdcution to cBioPortal
+        url: /cbioportal
+      - title: FAIR pointers course
+        url: /fair_pointers_course
+      - title: FAIRification of an RNAseq dataset
+        url: /fairification_rnaseq_course
+  - title: Recommended resources
+    description: curated list of recommended materials on RDM
+    url: /recommended_resources
+    image_url: /assets/img/icons/course_materials_icon.svg
