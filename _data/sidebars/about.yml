@@ -8,9 +8,9 @@ subitems:
       - title: Mentors
         url: /mentors
       - title: Coordination team
-        url: /coordination-team
+        url: /coordination_team
 
-  - title: Support & funding
+  - title: Support and funding
     url: /support
   - title: Contact
     url: /contact
