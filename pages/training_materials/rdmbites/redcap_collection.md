@@ -1,7 +1,7 @@
 ---
 title: REDCap collection
 contributors: [Saskia Lawson-Tovey]
-description: A sepcialised collection of RDMbites to learn REDCap advanced functionalities
+description: A specialised collection of RDMbites to learn REDCap advanced functionalities
 page_id: redcap_collection
 toc: true
 training:
