@@ -1,7 +1,7 @@
 ---
 title: Sequencing data collection
 contributors: [Andrew Mason]
-description: A sepcialised collection of RDMbites focused on managing sequencing data, diving deep into FASTQ format and RNA seq data, among others
+description: A specialised collection of RDMbites focused on managing sequencing data, diving deep into FASTQ format and RNA seq data, among others
 page_id: seq_data_collection
 toc: true
 training:
