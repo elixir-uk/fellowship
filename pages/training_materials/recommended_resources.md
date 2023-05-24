@@ -2,7 +2,8 @@
 title: Recommended resources
 description: A curated list of external resources on FAIR research data management
 toc: true
-related_pages: [course_materials, rdmbites]
+related_pages: 
+  training_materials:[course_materials, rdmbites]
 contributors: [Robert Andrews, Emily Delva]
 ---
 On this page, you'll find our curated list of external resources that help you make your data FAIR (Findable, Accessible, Interoperable and Reusable). For other FAIR resources, don't forget to check the materials developed within our Fellowship, including short videos, courses or workshops.  
