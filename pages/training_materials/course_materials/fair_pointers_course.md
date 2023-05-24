@@ -6,7 +6,7 @@ page_id: fair_pointers_course
 toc: false
 ---
 <html>
-   <a class="home" href="training_materials" target="_blank" rel="noopener noreferrer">
+   <a class="home" href="https://elixir-uk-dash.github.io/FAIR-Pointers/" target="_blank" rel="noopener noreferrer">
         <button type="button" class="home-button">Go to the Carpentries course</button>
    </a>
 </html>
