@@ -2,8 +2,6 @@
 title: Recommended resources
 description: A curated list of external resources on FAIR research data management
 toc: true
-related_pages: 
-  training_materials:[course_materials, rdmbites]
 contributors: [Robert Andrews, Emily Delva]
 ---
 On this page, you'll find our curated list of external resources that help you make your data FAIR (Findable, Accessible, Interoperable and Reusable). For other FAIR resources, don't forget to check the materials developed within our Fellowship, including short videos, courses or workshops.  
@@ -45,3 +43,13 @@ This is a fantastic resource for anyone working in the life sciences, especially
 This collection of infographics and factsheets provides high-level information on a variety of topics relevant to FAIRsharing content across a spectrum of users and in all disciplines. This is an excellent resource with content written by the FAIRsharing team and community champions in the field of FAIR research data management.\\
 [Go to resource>>](https://fairsharing.org/educational)
 
+## The Fellowship resources
+Don't forget to check out our other resources developed within our Fellowship.
+### RDMbites
+Short, bite-sized videos providing overviews and signposting for basic and specialised areas of RDM. Topics vary from data storage to working with sequencing data file types.
+We recommend these videos to anyone working in life sciences or data management. The videos are only a few minutes each, so you can watch a whole topic while having a break.
+[Go to RDMbites>>](/rdmbites)
+
+### Course materials
+Course, workshops and short training sessions. We offer the materials so that you can run different training formats in your own team, department or organisation. Our materials range from awareness sessions to specialised software training.
+[Go to course materials>>](/course_materials)
