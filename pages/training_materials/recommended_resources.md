@@ -47,9 +47,9 @@ This collection of infographics and factsheets provides high-level information o
 Don't forget to check out our other resources developed within our Fellowship.
 ### RDMbites
 Short, bite-sized videos providing overviews and signposting for basic and specialised areas of RDM. Topics vary from data storage to working with sequencing data file types.
-We recommend these videos to anyone working in life sciences or data management. The videos are only a few minutes each, so you can watch a whole topic while having a break.
+We recommend these videos to anyone working in life sciences or data management. The videos are only a few minutes each, so you can watch a whole topic while having a break.\\
 [Go to RDMbites>>](/rdmbites)
 
 ### Course materials
-Course, workshops and short training sessions. We offer the materials so that you can run different training formats in your own team, department or organisation. Our materials range from awareness sessions to specialised software training.
+Course, workshops and short training sessions. We offer the materials so that you can run different training formats in your own team, department or organisation. Our materials range from awareness sessions to specialised software training.\\
 [Go to course materials>>](/course_materials)
