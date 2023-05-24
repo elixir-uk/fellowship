@@ -5,7 +5,12 @@ description: A short course tackling the basic concepts and terminology of FAIR 
 page_id: fair_pointers_course
 toc: false
 ---
-
+<html>
+   <a class="home" href="training_materials" target="_blank" rel="noopener noreferrer">
+        <button type="button" class="home-button">Go to the Carpentries course</button>
+   </a>
+</html>
+<br>
 
 ## Audience and content
 
@@ -21,11 +26,3 @@ This is a basic course, and no prior knowledge is necessary.
 
 ## For Reviewers
 Please open a pull request from the GitHub repo if you have any comments or suggestions for our course.
-
-<html>
-   <a class="home" href="training_materials" target="_blank" rel="noopener noreferrer">
-        <button type="button" class="home-button">Go to the Carpentries course</button>
-   </a>
-</html>
-<br>
-<br>
