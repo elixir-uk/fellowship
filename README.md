@@ -23,8 +23,7 @@ This Fellowship of data steward ambassadors lies at the project’s core and dri
 The process documents and data are made available under a CC-BY license. More information about our license can be found on our [license](LICENSE) page.
 
 ## Acknowledgements
-
-This project was funded as part of the UKRI Innovation Scholars: Data Science Training in Health and Bioscience call (DaSH).
+This project is funded by the ELIXIR-UK: FAIR Data Stewardship training UKRI award (MR/V038966/1)
 
 <br>
 <br>
