@@ -1,6 +1,6 @@
 ---
 title: FAIR pointers course
-contributors: [Munazah Andrabi, Nick Juty, Robert Andrews, Katarzyna Kamieniecka, Xenia Perez Sitja, Krzysztof Poterlowicz]
+contributors: [Robert Andrews, Nicola Soranzo, Kellie Snow, Andrew Mason, Branka Franicevic, Saskia Lawson-Tovey, Munazah Andrabi, Nick Juty, Sara Morsy, Krzysztof Poterlowicz, Katarzyna Kamieniecka, Xenia Perez Sitja]
 description: A short course tackling the basic concepts and terminology of FAIR data 
 page_id: fair_pointers_course
 toc: false
