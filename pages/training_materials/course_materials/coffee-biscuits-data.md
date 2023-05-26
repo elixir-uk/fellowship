@@ -14,7 +14,7 @@ toc: false
 <br>
 <br>
 
-Coffee, Biscuits and Data is an awareness workshop, for both on-site and online, to build awareness of data management in research-performing organisations. The session is designed not to educate but to demystify data management while aiming to develop accountability – nearly the entire life sciences workforce is responsible for managing data in research.
+Coffee, Biscuits and Data is an awareness workshop, for both on-site and online, to build awareness of data management in research-performing organisations. The session is designed to demystify data management while aiming to develop accountability – nearly the entire life sciences workforce is responsible for managing data in research.
 By creating interest and making data management conversations more accessible and fun, you will build demand for training in RDM. After delivering this session, you can meet the demand by sharing resources and upcoming training courses with your audience. For instance, sharing the recommended resources of the ELIXIR-UK Fellowship
 
 * Duration: 1h 30 minutes
