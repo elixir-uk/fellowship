@@ -23,12 +23,14 @@ subitems:
     subitems:
       - title: Bioimage metadata course
         url: /bioimage_metadata_course
-      - title: Introdcution to cBioPortal
-        url: /cbioportal
+      - title: Coffee, Biscuits and Data
+        url: /coffee-biscuits-data
       - title: FAIR pointers course
         url: /fair_pointers_course
       - title: FAIRification of an RNAseq dataset
         url: /fairification_rnaseq_course
+      - title: Introdcution to cBioPortal
+        url: /cbioportal
   - title: Recommended resources
     description: curated list of recommended materials on RDM
     url: /recommended_resources
