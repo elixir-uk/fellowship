@@ -8,7 +8,7 @@ toc: false
 
 <html>
    <a class="home" href="https://docs.google.com/document/d/1ZRoCiX0fm7lUyCSsth8Zu46EOOoG2EO9NYPWDAkbD-4/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-        <button type="button" class="home-button">Got to materials</button>
+        <button type="button" class="home-button">Go to materials</button>
    </a>
 </html>
 <br>
