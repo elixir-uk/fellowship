@@ -25,7 +25,7 @@ subitems:
         url: /bioimage_metadata_course
       - title: Coffee, Biscuits and Data
         url: /coffee-biscuits-data
-      - title: FAIR pointers course
+      - title: FAIR Pointers course
         url: /fair_pointers_course
       - title: FAIRification of an RNAseq dataset
         url: /fairification_rnaseq_course
