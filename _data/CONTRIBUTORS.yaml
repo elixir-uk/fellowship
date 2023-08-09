@@ -35,6 +35,22 @@ Annabel Cansdale:
 Branka Franicevic:
     git: bfranicevic
     orcid: 0000-0002-3440-6581
+.Krzysztof Poterlowicz:
+    git: poterlowicz-lab
+    role: Principal investigator
+    orcid: 0000-0001-6173-5674
+    affiliation: University of Bradford/ELIXIR-UK
+Xenia Perez Sitja:
+    git: sitjart
+    email: 
+    orcid: 0000-0002-7166-0183
+    role: Project team
+    affiliation: University of Bradford/ELIXIR-UK
+Katarzyna Kamieniecka:
+    git: kkamieniecka
+    role: Project team
+    orcid: 0009-0004-2454-5950
+    affiliation: University of Bradford/ELIXIR-UK
 Carole Goble:
     git: CaroleGoble
     role: Project team
@@ -75,11 +91,6 @@ Gabriela Lopez-Gonzalez:
     git:
     role: Fellow
     image_url: https://t20526645.p.clickup-attachments.com/t20526645/8b291738-6040-41f4-82d6-6616486d6f55/20220710_222449.jpg
-Katarzyna Kamieniecka:
-    git: kkamieniecka
-    role: Project team
-    orcid: 0009-0004-2454-5950
-    affiliation: University of Bradford/ELIXIR-UK
 Khlaed Jumah:
     git: khaled196
     orcid:
@@ -95,11 +106,6 @@ Krister Jazz Urog:
     git:
     role: Fellow
     image_url: https://t20526645.p.clickup-attachments.com/t20526645/ac9bde09-d0a5-47ac-816a-abc45135a055/JazzUrog.jpg
-Krzysztof Poterlowicz:
-    git: poterlowicz-lab
-    role: Principal investigator
-    orcid: 0000-0001-6173-5674
-    image_url:
 Laura Cooper:
     git:
     role: Fellow
