@@ -1,54 +1,60 @@
 - name: Universiry of Bradford
   image_url: /images/institutions/logo-university-of-bradford.svg
-  pid: 
+  pid:
   expose: true
   type: organisation
   url: https://www.bradford.ac.uk/life-sciences/research-and-innovation/computational-and-data-driven-science/
 - name: The Manchester University
   image_url: /images/institutions/logo-university-of-manchester.svg
-  pid: 
+  pid:
   expose: true
   type: organisation
   url: https://www.manchester.ac.uk/
 - name: Cardiff University
   image_url: /images/institutions/logo-cardiff-university.svg
-  pid: 
+  pid:
   expose: true
   type: organisation
   url: https://www.cardiff.ac.uk/
 - name: Earlham Institute
   image_url: /images/institutions/logo-earlham-institute.svg
-  pid: 
+  pid:
   expose: true
   type: organisation
   url: https://www.earlham.ac.uk/
 - name: University of Oxford
   image_url: /images/institutions/logo-university-of-oxford.svg
-  pid: 
+  pid:
   expose: true
   type: organisation
   url: https://eng.ox.ac.uk/
 - name: Software Sustainability Institute
   image_url: /images/institutions/logo-ssi.svg
-  pid: 
+  pid:
   expose: true
   type: organisation
   url: https://www.software.ac.uk/
 - name: UKRI
   image_url: /images/institutions/logo-ukri.svg
-  pid: 
+  pid:
   expose: true
   type: funder
-  url: 
+  url:
 - name: ELIXIR-UK DaSH
   image_url: /images/institutions/logo-elixir-uk-dash.svg
-  pid: 
+  pid:
   expose: true
   type: project
   url: https://elixiruknode.org/projects/elixir-uk-dash/
 - name: ELIXIR-UK
-  image_url: 
-  pid: 
+  image_url:
+  pid:
   expose: true
   type: infrastructure
   url: /images/institutions/logo-elixir-uk.svg
+- name: The Open University
+  image_url: /images/institutions/logo-theou.svg
+  pid:
+  expose: true
+  type: organisation
+  url: https://www.open.ac.uk
