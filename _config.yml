@@ -4,7 +4,7 @@ title: ELIXIR-UK Fellowship
 description: "A Fellowship of UK ambassadors to build capacity in RDM for the life sciences"
 # Metadata description of the website
 
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@2.2.2
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.25.0
 
 sass:
   style: compressed
