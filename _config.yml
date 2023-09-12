@@ -16,7 +16,6 @@ theme_variables:
     open_issue: true
     history: true
   toc:
-    full_width: false
     min_headers: 2
     headers: 'h2'
   topnav:
@@ -24,7 +23,7 @@ theme_variables:
     brand_logo: assets/img/main_logo.svg
     github: true
     twitter: false
-  theme_color: 023452
+  theme_color: 037EAB
   fonts:
     - url towards a font
 
@@ -32,11 +31,6 @@ theme_variables:
 sass:
   style: compressed
   sourcemap: never
-
-theme_variables:
-  topnav:
-    theme: light
-  theme_color: 037EAB
 
 gtag: 
 # Google analytics tag
@@ -46,6 +40,11 @@ gtag:
 
 
 exclude:
+  - .gitignore
+  - var/
+  - vendor
+  - Gemfile*
+  - LICENSE
   - README.md
 
 defaults:
