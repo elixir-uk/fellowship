@@ -375,8 +375,6 @@ h2 {
 
 /*----- Buttons -----*/
 .home-button {
-    display: block;
-    float: left;
     margin: 10px auto;
     background-color: $orange;
     color: #fff;
@@ -391,11 +389,7 @@ h2 {
 .home-button:hover {
     background-color: $blue;
     transition: 0.7s;
-}
-
-.home a{
-    text-decoration: none;
-    display: block;
+    text-decoration: none!important;
 }
 
 .stretched-link a{

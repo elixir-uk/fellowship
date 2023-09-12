@@ -1,6 +1,6 @@
 ---
 title: Privacy
-toc: false
+
 ---
 
 This Privacy Policy explains what personal data is collected by the ELIXIR-UK Fellowship website.
