@@ -14,32 +14,8 @@
 
 /*-----Sidebar-----*/
 
-//RDM wheel in sidebar
-.sidebar_rdm {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-@media (max-width: 992px) {
-    .sidebar_rdm {
-        width: 200px;
-    }
-}
-
-li ul .sidebar_rdm_sub {
-    border-color: $light;
-    padding: 0.75rem 0.5rem 0.5rem 0.5rem;
-    border-radius: 0px 0px $border-radius $border-radius;
-    border-style: none solid solid solid;
-    border-width: 0.2em;
-    margin-top: -0.25rem;
-}
-
 .sidebar-title {
-    border-bottom: 0.2rem solid $blue;
     font-weight: bold;
-    padding-bottom: $input-btn-padding-y - 0.2rem;
 }
 
 #side-nav > ul {
@@ -81,23 +57,6 @@ li ul .sidebar_rdm_sub {
 
 }
 
-// Search box
-
-section#search-section {
-    form {
-        max-width: 600px;
-    }
-
-    #search-results {
-        right: unset;
-    }
-    .input-group-text {
-        font-size: 1.5rem;
-    }
-
-    
-}
-
 
 /*-----Section navigation tiles-----*/
 
@@ -114,36 +73,13 @@ section#search-section {
             font-size: 1.2rem;
         }
     }
+
+    a.stretched-link {
+        text-decoration: none !important;
+    }
 }
 
-.navbar-nav .nav-item > a.active {
-    background-color: $blue;
-    color: #fff !important;
-}
 
-.navigation-tiles .card button {
-    background-color: $blue !important;
-    color: $light !important;
-}
-
-.navigation-tiles .card button:hover {
-    background-color: $light-blue !important;
-    color: $dark-blue !important;
-}
-
-.navigation-tiles .card .card-header a {
-    color: $blue !important;
-    text-decoration: none !important;
-}
-
-.navigation-tiles .card .card-header {
-    background-color: $light-blue;
-    text-decoration: none !important;
-}
-
-.stretched-link a {
-    text-decoration: none !important;
-}
 /*== banner styles landing page ===*/
 
 
@@ -370,7 +306,12 @@ h2 {
     &.active {
         background-color: $blue;
         border-radius: $border-radius;
+        color: $white;
     }
+}
+
+#search-input {
+    background-color: $white;
 }
 
 /*----- Buttons -----*/

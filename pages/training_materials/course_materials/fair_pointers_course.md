@@ -5,10 +5,11 @@ description: A short course tackling the basic concepts and terminology of FAIR 
 page_id: fair_pointers_course
 ---
 
-<a type="button" class="home-button" class="home" href="https://elixir-uk-dash.github.io/FAIR-Pointers">
+<a type="button" class="home-button" href="https://elixir-uk-dash.github.io/FAIR-Pointers">
       Go to the Carpentries course
 </a>
-
+<br>
+<br>
 
 ## Audience and content
 
