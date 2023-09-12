@@ -52,9 +52,3 @@
   expose: true
   type: infrastructure
   url: /images/institutions/logo-elixir-uk.svg
-- name: The Open University
-  image_url: /images/institutions/logo-theou.svg
-  pid:
-  expose: true
-  type: organisation
-  url: https://www.open.ac.uk
