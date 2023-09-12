@@ -6,6 +6,29 @@ description: "A Fellowship of UK ambassadors to build capacity in RDM for the li
 
 remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@2.2.2
 
+theme_variables: 
+  git_host: GitHub
+  back_to_top: true
+  privacy_statement_url: /privacy
+  github_buttons: 
+    position: top
+    edit_me: false
+    open_issue: true
+    history: true
+  toc:
+    full_width: false
+    min_headers: 2
+    headers: 'h2'
+  topnav:
+    theme: light
+    brand_logo: assets/img/main_logo.svg
+    github: true
+    twitter: false
+  theme_color: 023452
+  fonts:
+    - url towards a font
+
+
 sass:
   style: compressed
   sourcemap: never
