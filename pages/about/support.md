@@ -6,7 +6,7 @@ custom-editme: _data/affiliations.yaml
 
 ## Organisations
 
-The University of Bradford leads the Fellowship with a delivery team at the Earlham Institute, Cardiff University, the University of Manchester, and the University of Oxford.
+The University of Bradford leads the Fellowship with a delivery team at the Earlham Institute, Cardiff University, the University of Manchester and the University of Oxford.
 We have also partnered with the Software Sustainability Institute, bringing their experience of running a 10-year successful Fellowship.
 
 {% include affiliation-tiles-selection.html type="organisation"%}
