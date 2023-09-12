@@ -1,6 +1,5 @@
 ---
 title: About
-toc: false
 ---
 
 ## About the Fellowship
