@@ -14,7 +14,7 @@
 Adam Partridge:
     git:
     role: Fellow
-    image_url: "/img/community/profile-adam-partridge.jpg"
+    image_url: "assets/img/community/profile-adam-partridge.jpg"
 Alexia Cardona:
     git:
     role: Mentor
@@ -31,7 +31,7 @@ Andrew Mason:
 Annabel Cansdale:
     git:
     role: Fellow
-    image_url: "/img/community/profile-annabel-cansdale.jpg"
+    image_url: "assets/img/community/profile-annabel-cansdale.jpg"
 Branka Franicevic:
     git: bfranicevic
     orcid: 0000-0002-3440-6581
@@ -58,39 +58,39 @@ Carole Goble:
 Catherine Knox:
     git:
     role: Project team
-    image_url: "/img/community/profile-catherine-knox.jpg"
+    image_url: "assets/img/community/profile-catherine-knox.jpg"
 Ciara Loughrey:
     git:
     role: Fellow
-    image_url: "/img/community/profile-ciara-loughrey.jpg"
+    image_url: "assets/img/community/profile-ciara-loughrey.jpg"
 Diane Hatziioanou:
     git:
     role: Fellow
-    image_url: "/img/community/profile-diane-hatziioanou.jpg"
+    image_url: "assets/img/community/profile-diane-hatziioanou.jpg"
 Edward Parkinson:
     git:
     role: Fellow
-    image_url: "/img/community/profile-ed-parkinson.jpg"
+    image_url: "assets/img/community/profile-ed-parkinson.jpg"
 Elvina Gountouna:
     git:
     role: Fellow
-    image_url: "/img/community/profile-elvina-gountouna.jpg"
+    image_url: "assets/img/community/profile-elvina-gountouna.jpg"
 Emily Angiolini:
     git:
     role: Mentor
-    image_url: "/img/community/profile-emili-angiolini.jpg"
+    image_url: "assets/img/community/profile-emili-angiolini.jpg"
 Emily Delva:
     git:
     role: Project team
-    image_url: "/img/community/profile-emily-delva.jpg"
+    image_url: "assets/img/community/profile-emily-delva.jpg"
 Emma Karoune:
     git:
     role: Fellow
-    image_url: "/img/community/profile-emma-karoune.jpg"
+    image_url: "assets/img/community/profile-emma-karoune.jpg"
 Gabriela Lopez-Gonzalez:
     git:
     role: Fellow
-    image_url: "/img/community/profile-gabriela-lopez.jpg"
+    image_url: "assets/img/community/profile-gabriela-lopez.jpg"
 Khlaed Jumah:
     git: khaled196
     orcid:
@@ -101,27 +101,27 @@ Kellie Snow:
 Korneel Hens:
     git:
     role: Fellow
-    image_url: "/img/community/profile-korneel-hens.jpg"
+    image_url: "assets/img/community/profile-korneel-hens.jpg"
 Krister Jazz Urog:
     git:
     role: Fellow
-    image_url: "/img/community/profile-jazz-urog.jpg"
+    image_url: "assets/img/community/profile-jazz-urog.jpg"
 Laura Cooper:
     git:
     role: Fellow
-    image_url: "/img/community/profile-laura-cooper.jpg"
+    image_url: "assets/img/community/profile-laura-cooper.jpg"
 Lijing Lin:
     git:
     role: Fellow
-    image_url: "/img/community/profile-lijing-lin.jpg"
+    image_url: "assets/img/community/profile-lijing-lin.jpg"
 Martin Wolstencroft:
     git:
     role: Mentor
-    image_url: "/img/community/profile-martin-wolsencroft.jpg"
+    image_url: "assets/img/community/profile-martin-wolsencroft.jpg"
 Manuel Lera Ramirez:
     git:
     role: Fellow
-    image_url: "/img/community/profile-manuel-lera.jpg"
+    image_url: "assets/img/community/profile-manuel-lera.jpg"
 Munazah Andrabi:
     git: smza
     orcid: 0000-0002-7718-5109
@@ -130,7 +130,7 @@ Munazah Andrabi:
 Neil Hall:
     git: 
     role: Project team
-    image_url: "/img/community/profile-neil-hall.jpg"
+    image_url: "assets/img/community/profile-neil-hall.jpg"
 Nick Juty:
     git: nsjuty
     orcid: 0000-0002-2036-8350
@@ -142,23 +142,23 @@ Nicola Soranzo:
 Nilam Khan:
     git:
     role: Fellow
-    image_url: "/img/community/profile-nilam-khan.jpg"
+    image_url: "assets/img/community/profile-nilam-khan.jpg"
 Phillip Crout:
     git:
     role: Fellow
-    image_url: "/img/community/profile-phillip-crout.jpg"
+    image_url: "assets/img/community/profile-phillip-crout.jpg"
 Ralf Weber:
     git:
     role: Mentor
-    image_url: "/img/community/profile-ralf-weber.jpg"
+    image_url: "assets/img/community/profile-ralf-weber.jpg"
 Richard Ostler:
     git:
     role: Fellow
-    image_url: "/img/community/profile-richard-ostler.jpg"
+    image_url: "assets/img/community/profile-richard-ostler.jpg"
 Rob Ewing:
     git:
     role: Fellow
-    image_url: "/img/community/profile-rob-ewing.jpg"
+    image_url: "assets/img/community/profile-rob-ewing.jpg"
 Robert Andrews:
     git: robertmand
     role: Project team
@@ -170,20 +170,20 @@ Sara Morsy:
 Sandra Ng:
     git:
     role: Fellow
-    image_url: "/img/community/profile-sandra-ng.jpg"
+    image_url: "assets/img/community/profile-sandra-ng.jpg"
 Saskia Lawson-Tovey:
     git: saskia-lawson-tovey     
     orcid: 0000-0002-8611-162X
     role: Fellow
-    image_url: "/img/community/profile-saskia-lawson-tovey.jpg" 
+    image_url: "assets/img/community/profile-saskia-lawson-tovey.jpg" 
 Shoaib Sufi:
     git: 
     role: Project team
-    image_url: "/img/community/profile-shoaib-sufi.jpg"
+    image_url: "assets/img/community/profile-shoaib-sufi.jpg"
 Sonal Henson:
     git:
     role: Fellow
-    image_url: "/img/community/profile-sonal-henson.jpg"
+    image_url: "assets/img/community/profile-sonal-henson.jpg"
 Susanna-Assunta Sansone:
     git: SusannaSansone
     role: Project team
@@ -192,22 +192,22 @@ Tim Beck:
     git:
     orcid: 0000-0002-0292-7972
     role: Mentor
-    image_url: "/img/community/profile-tim-beck.jpg"
+    image_url: "assets/img/community/profile-tim-beck.jpg"
 Toryn Poolman:
     git:
     role: Fellow
-    image_url: "/img/community/profile-toryn-poolman.jpg"
+    image_url: "assets/img/community/profile-toryn-poolman.jpg"
 Vasileios Panagiotis Lenis:
     git:
     role: Fellow
-    image_url: "/img/community/profile-vasilis-lenis.jpg"
+    image_url: "assets/img/community/profile-vasilis-lenis.jpg"
 Wendi Bacon:
     git: nomadscientist
     orcid: 0000-0002-8170-8806
     linkedin: https://www.linkedin.com/in/wendi-bacon-7462aa100/
     affiliation: The Open University
     role: Mentor
-    image_url: "/img/community/profile-wendi-bacon.jpg"
+    image_url: "assets/img/community/profile-wendi-bacon.jpg"
 Xenia Perez Sitja:
     git: sitjart
     email:
