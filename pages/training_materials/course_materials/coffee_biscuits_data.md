@@ -6,7 +6,7 @@ page_id: coffee_biscuits_data
 ---
 
 
-<a class="home-button" href="https://docs.google.com/document/d/1ZRoCiX0fm7lUyCSsth8Zu46EOOoG2EO9NYPWDAkbD-4/edit?usp=sharing">Go to materials</a>
+<a type="button" class="home-button" href="https://docs.google.com/document/d/1ZRoCiX0fm7lUyCSsth8Zu46EOOoG2EO9NYPWDAkbD-4/edit?usp=sharing">Go to materials</a>
 <br>
 <br>
 
