@@ -27,7 +27,7 @@ Andrew Mason:
     git: asmasonomics
     orcid: 0000-0002-8222-3974
     role: Fellow
-    image_url: "/img/community/profile-andrew-mason.jpg"
+    image_url: 
 Annabel Cansdale:
     git:
     role: Fellow
@@ -133,7 +133,7 @@ Neil Hall:
     image_url: "/img/community/profile-neil-hall.jpg"
 Nick Juty:
     git: nsjuty
-    orcid: 0000-0002-2036-835
+    orcid: 0000-0002-2036-8350
     role: Mentor
     image_url:
 Nicola Soranzo:
@@ -141,7 +141,6 @@ Nicola Soranzo:
     orcid: 0000-0003-3627-5340
 Nilam Khan:
     git:
-    orcid: 000-0001-6509-5010
     role: Fellow
     image_url: "/img/community/profile-nilam-khan.jpg"
 Phillip Crout:
@@ -173,12 +172,12 @@ Sandra Ng:
     role: Fellow
     image_url: "/img/community/profile-sandra-ng.jpg"
 Saskia Lawson-Tovey:
-    git:
+    git: saskia-lawson-tovey     
+    orcid: 0000-0002-8611-162X
     role: Fellow
     image_url: "/img/community/profile-saskia-lawson-tovey.jpg" 
 Shoaib Sufi:
     git: 
-    orcid: 0000-0002-8611-162X
     role: Project team
     image_url: "/img/community/profile-shoaib-sufi.jpg"
 Sonal Henson:
