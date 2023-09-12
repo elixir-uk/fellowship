@@ -150,8 +150,7 @@ section#search-section {
 .banner-area {
     position: relative;
     z-index: 5;
-    padding-top: 50px;
-    padding-bottom: 110px;
+    padding: 50px 50px 110px 50px;
     overflow: hidden;
 
     & .banner-shape-1 {
@@ -216,7 +215,8 @@ section#search-section {
 // Counters on landing page
 
 .banner-counter{
-    padding-top: 20px;
+    padding: 20px 50px 50px 50px;
+    position: relative;
 
     & .counter-title{
         & .title{
@@ -255,7 +255,7 @@ section#search-section {
 /*=====Features in landing page ====*/
 
 .features-area {      
-    padding-top: 120px;
+    padding: 120px 50px 50px 50px;
     position: relative;
     z-index: 5;
     overflow: hidden;
