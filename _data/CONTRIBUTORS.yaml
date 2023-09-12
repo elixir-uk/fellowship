@@ -14,11 +14,11 @@
 Adam Partridge:
     git:
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/3cd868c0-38dc-4ce2-92b0-dcb20a993208/02-cohort_adam-partridge-profile-picture.jpg
+    image_url: "/img/community/profile-adam-partridge.jpg"
 Alexia Cardona:
     git:
     role: Mentor
-    image_url: https://elixiruknode.org/wp-content/uploads/2022/04/alexia-cardona-profile-picture-e1650477544255-160x160.png
+    image_url: "/img/community/profile-alexia-cardona.jpg"
 Allyson Lister:
     git: allysonlister
     role: Mentor
@@ -27,15 +27,15 @@ Andrew Mason:
     git: asmasonomics
     orcid: 0000-0002-8222-3974
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/d97c2f6d-af56-489a-b29b-6d0c79cce817/andrew-mason_profile-picture-e1652256971142-160x160.jpeg
+    image_url: "/img/community/profile-andrew-mason.jpg"
 Annabel Cansdale:
     git:
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/32b2d00b-15f8-4d53-af26-c98fcfb5218d/annabel-cansdale_profile-picture-e1652256326309-160x160.jpeg
+    image_url: "/img/community/profile-annabel-cansdale.jpg"
 Branka Franicevic:
     git: bfranicevic
     orcid: 0000-0002-3440-6581
-.Krzysztof Poterlowicz:
+Krzysztof Poterlowicz:
     git: poterlowicz-lab
     role: Principal investigator
     orcid: 0000-0001-6173-5674
@@ -58,39 +58,39 @@ Carole Goble:
 Catherine Knox:
     git:
     role: Project team
-    image_url: https://www.earlham.ac.uk/sites/default/files/styles/max_650x650/public/2023-02/catherine-knox-web-profile-NEW.jpg?itok=VCyJXnB-
+    image_url: "/img/community/profile-catherine-knox.jpg"
 Ciara Loughrey:
     git:
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/3825bbc8-0afe-4e4c-aa61-d5b931756185/me.jpg
+    image_url:"/img/community/profile-ciara-loughrey.jpg"
 Diane Hatziioanou:
     git:
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/149b8b19-55f4-430d-a10e-c65c9773d7a0/20220710picture.jpg
+    image_url: "/img/community/profile-diane-hatziioanou.jpg"
 Edward Parkinson:
     git:
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/60ea05f3-6183-43c5-bba9-e64f2ac94788/ep_profile_photo.jpeg
+    image_url: "/img/community/profile-ed-parkinson.jpg"
 Elvina Gountouna:
     git:
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/31a38666-efc9-4ba7-b55d-3d5b4b22e8f5/ElvinaGountouna.jpg
+    image_url: "/img/community/profile-elvina-gountouna.jpg"
 Emily Angiolini:
     git:
     role: Mentor
-    image_url: https://www.earlham.ac.uk/sites/default/files/styles/image_1c_desktop_1x/public/images/profiles/Emily%20Angiolini/emily-angiolini-web.jpg?itok=VbY1d411
+    image_url: "/img/community/profile-emili-angiolini.jpg"
 Emily Delva:
     git:
     role: Project team
-    image_url: https://www.earlham.ac.uk/sites/default/files/styles/max_650x650/public/2023-02/emily-delva-web-profile.jpg?itok=YE7rEOvK
+    image_url: "/img/community/profile-emily-delva.jpg"
 Emma Karoune:
     git:
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/72163211-7b69-4c5d-9fdf-a6582757b361/emma-karoune_profile-picture-e1652256612187-160x160(1).jpg
+    image_url: "/img/community/profile-emma-karoune.jpg"
 Gabriela Lopez-Gonzalez:
     git:
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/8b291738-6040-41f4-82d6-6616486d6f55/20220710_222449.jpg
+    image_url: "/img/community/profile-gabriela-lopez.jpg"
 Khlaed Jumah:
     git: khaled196
     orcid:
@@ -101,36 +101,36 @@ Kellie Snow:
 Korneel Hens:
     git:
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/e4883261-6d72-4ca5-8b56-c093116a9e7e/Korneel%20Hens.jpg
+    image_url: "/img/community/profile-korneel-hens.jpg"
 Krister Jazz Urog:
     git:
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/ac9bde09-d0a5-47ac-816a-abc45135a055/JazzUrog.jpg
+    image_url: "/img/community/profile-jazz-urog.jpg"
 Laura Cooper:
     git:
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/44bf5f33-f9f9-4550-b0e5-deb6e00ccb2f/laura-coper_profile-picture-e1652256429730-160x160(1).png
+    image_url: "/img/community/profile-laura-cooper.jpg"
 Lijing Lin:
     git:
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/ebc6c665-52a1-4ccd-9673-10f321632dde/LijingLin-160x160.jpg
+    image_url: "/img/community/profile-lijing-lin.jpg"
 Martin Wolstencroft:
     git:
     role: Mentor
-    image_url:
+    image_url: "/img/community/profile-martin-wolsencroft.jpg"
 Manuel Lera Ramirez:
     git:
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/06735fcf-59f6-4e1a-b12b-c262401b403e/LeraRamirez_profile.jpeg
+    image_url: "/img/community/profile-manuel-lera.jpg"
 Munazah Andrabi:
     git: smza
     orcid: 0000-0002-7718-5109
     role: Project team
     image_url:
 Neil Hall:
-    git: smza
+    git: 
     role: Project team
-    image_url: https://www.earlham.ac.uk/sites/default/files/styles/image_1c_desktop_1x/public/2022-07/neil-hall-web-profile.jpg?itok=UkCZ__Jl
+    image_url: "/img/community/profile-neil-hall.jpg"
 Nick Juty:
     git: nsjuty
     orcid: 0000-0002-2036-835
@@ -143,23 +143,23 @@ Nilam Khan:
     git:
     orcid: 000-0001-6509-5010
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/bcc01ade-6970-4948-be76-8b2843689e03/NKhan%20copy.jpg
+    image_url: "/img/community/profile-nilam-khan.jpg"
 Phillip Crout:
     git:
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/0697992c-965f-49e3-8b65-49e84a6bd49b/resized_thumb.png
+    image_url: "/img/community/profile-phillip-crout.jpg"
 Ralf Weber:
     git:
     role: Mentor
-    image_url: https://www.birmingham.ac.uk/images/staff/profiles/biosciences/ralfweber-300x300-cropped-230x230.jpg?quality=80&width=411
+    image_url: "/img/community/profile-ralf-weber.jpg"
 Richard Ostler:
     git:
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/be3ebb05-b040-4199-a122-aef425a73950/20220708_112552.jpg
+    image_url: "/img/community/profile-richard-ostler.jpg"
 Rob Ewing:
     git:
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/a12e5e99-2ef1-485d-ae18-b430745c0adf/rob_ewing_profile_pic3.jpg
+    image_url: "/img/community/profile-rob-ewing.jpg"
 Robert Andrews:
     git: robertmand
     role: Project team
@@ -171,20 +171,20 @@ Sara Morsy:
 Sandra Ng:
     git:
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/73945fc8-f824-4fe3-8b8c-8d02bbbc23b9/Photo.jpg
+    image_url: "/img/community/profile-sandra-ng.jpg"
 Saskia Lawson-Tovey:
     git:
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/d15bd8ba-1f5b-4fe4-8669-a2cc4737f410/saskia-lawson-tovey_profile-picture-e1652256365935-160x160(1).jpg
+    image_url: "/img/community/profile-saskia-lawson-tovey.jpg" 
 Shoaib Sufi:
-    git: saskia-lawson-tovey
+    git: 
     orcid: 0000-0002-8611-162X
     role: Project team
-    image_url: https://elixiruknode.org/wp-content/uploads/2022/04/Shoaib_0-e1652195694693-160x160.jpeg
+    image_url: "/img/community/profile-shoaib-sufi.jpg"
 Sonal Henson:
     git:
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/42104659-0e67-442e-b2c7-db75089fa7b5/Profile%20photo-2.jpg
+    image_url: "/img/community/profile-sonal-henson.jpg"
 Susanna-Assunta Sansone:
     git: SusannaSansone
     role: Project team
@@ -193,22 +193,22 @@ Tim Beck:
     git:
     orcid: 0000-0002-0292-7972
     role: Mentor
-    image_url: https://www.hdruk.ac.uk/wp-content/uploads/2019/02/Tim-Beck.jpg
+    image_url: "/img/community/profile-tim-beck.jpg"
 Toryn Poolman:
     git:
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/da3023c7-3e0c-42e6-a1c1-b17c033bb0e0/Toryn%20Poolman.jpeg
+    image_url: "/img/community/profile-toryn-poolman.jpg"
 Vasileios Panagiotis Lenis:
     git:
     role: Fellow
-    image_url: https://t20526645.p.clickup-attachments.com/t20526645/46e1d0c8-8efe-49e1-b45a-3e366248d00e/Photo%20on%2011-02-2021%20at%2009.13%20%234.jpg
+    image_url: "/img/community/profile-vasilis-lenis.jpg"
 Wendi Bacon:
     git: nomadscientist
     orcid: 0000-0002-8170-8806
     linkedin: https://www.linkedin.com/in/wendi-bacon-7462aa100/
     affiliation: The Open University
     role: Mentor
-    image_url: https://www.open.ac.uk/people/sites/www.open.ac.uk.people/files/styles/profile_photo/public/photos/Public%20Image%202021_0.jpg?itok=lAwnwx9K
+    image_url: "/img/community/profile-wendi-bacon.jpg"
 Xenia Perez Sitja:
     git: sitjart
     email:
