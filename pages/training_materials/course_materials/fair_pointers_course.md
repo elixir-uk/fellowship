@@ -3,6 +3,8 @@ title: FAIR Pointers course
 contributors: [Robert Andrews, Nicola Soranzo, Kellie Snow, Andrew Mason, Branka Franicevic, Saskia Lawson-Tovey, Munazah Andrabi, Nick Juty, Sara Morsy, Krzysztof Poterlowicz, Katarzyna Kamieniecka, Xenia Perez Sitja]
 description: A short course tackling the basic concepts and terminology of FAIR data 
 page_id: fair_pointers_course
+related_pages: 
+  course_materials: [fairification_rnaseq_course, fair_agricultural_course, fair_clinical_datasets_course]
 ---
 
 <a type="button" class="home-button" href="https://elixir-uk-dash.github.io/FAIR-Pointers">

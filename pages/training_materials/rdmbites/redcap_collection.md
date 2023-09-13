@@ -4,6 +4,8 @@ contributors: [Saskia Lawson-Tovey]
 description: A specialised collection of RDMbites to learn REDCap advanced functionalities
 page_id: redcap_collection
 toc: true
+related_pages: 
+  RDMbites: [sensitive_data_collection]
 training:
   - name: collection in the ELIXIR training portal
     registry: TeSS

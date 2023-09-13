@@ -4,6 +4,8 @@ contributors: [Emma Karoune, Elvina Gountouna]
 description: A collection of RDMbites dedicated to overcoming data management barriers with sensitive data
 page_id: sensitive_data_collection
 toc: true
+related_pages: 
+  RDMbites: [redcap_collection]
 training:
   - name: collection in the ELIXIR training portal
     registry: TeSS
