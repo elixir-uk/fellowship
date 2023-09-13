@@ -22,7 +22,10 @@ Alexia Cardona:
 Allyson Lister:
     git: allysonlister
     role: Mentor
-    image_url:
+    orcid: 0000-0002-7702-4495
+    twitter: https://twitter.com/allysonlister
+    mastodon: https://fediscience.org/@allysonlister
+    linkedin: https://www.linkedin.com/in/allysonlister/
 Andrew Mason:
     git: asmasonomics
     orcid: 0000-0002-8222-3974
@@ -150,6 +153,7 @@ Phillip Crout:
 Ralf Weber:
     git:
     role: Mentor
+    orcid: 0000-0002-8796-4771
     image_url: "assets/img/community/profile-ralf-weber.jpg"
 Richard Ostler:
     git:
