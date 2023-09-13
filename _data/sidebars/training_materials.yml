@@ -10,6 +10,12 @@ subitems:
         url: /bioimage_collection
       - title: Data management essentials collection
         url: /data_management_essentials_collection
+      - title: Data Management Plans collection
+        url: /dmp_collection
+      - title: Equity, Diversity, Inclusion and Justice collection
+        url: /edij_collection
+      - title: Peatland data collection
+        url: /peatland_data_collection
       - title: REDCap collection
         url: /redcap_collection
       - title: Sensitive data collection
@@ -25,12 +31,25 @@ subitems:
         url: /bioimage_metadata_course
       - title: Coffee, Biscuits and Data
         url: /coffee_biscuits_data
+      - title: ENA sequence submission
+        url: /ena_submission_course
+      - title: Equity, Diversity, Inclusion and Justice and data decolonisation
+        url: /edij_data_decolonisation
+      - title: FAIR data management for long-term agricultural experiments
+        url: /fair_agricultural_course
       - title: FAIR Pointers course
         url: /fair_pointers_course
       - title: FAIRification of an RNAseq dataset
         url: /fairification_rnaseq_course
+      - title: FAIRification of clinical datasets
+        url: /fair_clinical_datasets_course
       - title: Introduction to cBioPortal
-        url: /cbioportal
+        url: /cbioportal-workshop
+      - title: Managing and retrieving metagenomics data with MGnify
+        url: /mgnify_course
+      - title: RNA-Seq. Data Readiness for Machine Learning Applications
+        url: /rna-seq-ml-course
+
   - title: Recommended resources
     description: curated list of recommended materials on RDM
     url: /recommended_resources

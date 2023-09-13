@@ -1,12 +1,12 @@
 ---
 title: Support and funding
 custom-editme: _data/affiliations.yaml
-toc: false
+
 ---
 
 ## Organisations
 
-The University of Bradford leads the Fellowship with a delivery team at the Earlham Institute, Cardiff University, the University of Manchester, and the University of Oxford.
+The University of Bradford leads the Fellowship with a delivery team at the Earlham Institute, Cardiff University, the University of Manchester and the University of Oxford.
 We have also partnered with the Software Sustainability Institute, bringing their experience of running a 10-year successful Fellowship.
 
 {% include affiliation-tiles-selection.html type="organisation"%}
@@ -21,6 +21,6 @@ This Fellowship was funded through the ELIXIR-UK DaSH project as part of the UKR
 
 ## Infrastructures
 
-The Fellowship lies at the core of the ELIXIR-UK strategy to embed best practices indata management and data stewardship into UK research-performing organisations.
+The Fellowship lies at the core of the ELIXIR-UK strategy to embed best practices in data management and data stewardship into UK research-performing organisations.
 
 {% include affiliation-tiles-selection.html type="infrastructure"%}

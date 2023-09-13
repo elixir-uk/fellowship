@@ -3,14 +3,10 @@ title: Coffee, Biscuits and Data
 contributors: [Xenia Perez Sitja, Nilam Khan]
 description: An RDM awareness workshop for research-performing organisations with a pinch of gamification
 page_id: coffee_biscuits_data
-toc: false
 ---
 
-<html>
-   <a class="home" href="https://docs.google.com/document/d/1ZRoCiX0fm7lUyCSsth8Zu46EOOoG2EO9NYPWDAkbD-4/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-        <button type="button" class="home-button">Go to materials</button>
-   </a>
-</html>
+
+<a type="button" class="home-button" href="https://docs.google.com/document/d/1ZRoCiX0fm7lUyCSsth8Zu46EOOoG2EO9NYPWDAkbD-4/edit?usp=sharing">Go to materials</a>
 <br>
 <br>
 
