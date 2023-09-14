@@ -27,6 +27,12 @@ subitems:
     url: /course_materials
     image_url: /assets/img/icons/course_materials_icon.svg
     subitems:
+      - title: FAIR in a nutshell course
+        url: /fair_intro_course
+      - title: FAIR Galaxy Training Material
+        url: /fair_gtn_course
+      - title: FAIR data management solutions
+        url: /fair_data_course
       - title: Bioimage metadata course
         url: /bioimage_metadata_course
       - title: Coffee, Biscuits and Data

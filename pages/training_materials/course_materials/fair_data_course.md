@@ -2,7 +2,7 @@
 title: FAIR data management solutions
 contributors: [Katarzyna Kamieniecka, Krzysztof Poterlowicz]
 description: A Galaxy Training Network tutorial discusses a FAIR data management framework that can be used to improve the findability, accessibility, interoperability, and reusability of research data.
-page_id: fair_gtn_course
+page_id: fair_data_course
 related_pages: 
   course_materials: [fair_intro_course]
 ---
