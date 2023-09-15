@@ -1,3 +1,8 @@
+#
+# ****Important**** Please read before adding your material/s 
+# Add your Material title and URL to this list following the alphabetical order, as the theme doesn't accept random adding.
+#
+# 
 title: Training materials
 title_url: /training_materials
 subitems:
@@ -29,12 +34,6 @@ subitems:
     url: /course_materials
     image_url: /assets/img/icons/course_materials_icon.svg
     subitems:
-      - title: FAIR in a nutshell course
-        url: /fair_intro_course
-      - title: FAIR Galaxy Training Material
-        url: /fair_gtn_course
-      - title: FAIR data management solutions
-        url: /fair_data_course
       - title: Bioimage metadata course
         url: /bioimage_metadata_course
       - title: Coffee, Biscuits and Data
@@ -45,6 +44,12 @@ subitems:
         url: /edij_data_decolonisation
       - title: FAIR data management for long-term agricultural experiments
         url: /fair_agricultural_course
+      - title: FAIR data management solutions
+        url: /fair_data_course
+      - title: FAIR Galaxy Training Material
+        url: /fair_gtn_course
+      - title: FAIR in a nutshell course
+        url: /fair_intro_course
       - title: FAIR Pointers course
         url: /fair_pointers_course
       - title: FAIRification of an RNAseq dataset
