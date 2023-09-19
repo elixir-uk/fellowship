@@ -15,8 +15,7 @@ related_pages:
 <br>
 
 Submitting your data to a repository is a good way to make the data FAIR. This will make it:
-
-Findable, as the data will be given specific identifiers
-Accessible, as the data will be available online, open and free where possible
-Interoperable, as the repository will often enforce the use of formalised, consistent language
-Reusable, as the data will be released under a license with detailed provenance
+* **Findable**, as the data will be given specific identifiers
+* **Accessible**, as the data will be available online, open and free where possible
+* **Interoperable**, as the repository will often enforce the use of formalised, consistent language
+* **Reusable**, as the data will be released under a license with detailed provenance
