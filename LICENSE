@@ -3,9 +3,15 @@
 The ELIXIR-UK Fellowship makes all of their materials publicly available under [open source][osi] licenses.
 
 
-## Process documents and data
+## Documents and data
 
 All documentation and tutorials and training materials in this repository are licensed under a [Creative Commons Attribution 4.0 International License][cc-by-human].
 
 [cc-by-human]: https://creativecommons.org/licenses/by/4.0/
 [osi]: https://opensource.org
+
+# Jekyll theme license
+This project uses the Danto Jekyll Theme created by [Artem Sheludko](https://github.com/artemsheludko)
+This is a licensed theme. To use Danto, visit [jekyll themes](https://jekyllthemes.io/theme/danto-magazine-jekyll-theme)
+Order ID is 0133710290 for ELIXIR-UK
+Purchase date: 17 October 2023 

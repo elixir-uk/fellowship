@@ -1,121 +1,57 @@
-title: ELIXIR-UK Fellowship
-# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
-
-description: "A Fellowship of UK ambassadors to build capacity in RDM for the life sciences"
-# Metadata description of the website
-
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@2.2.2
-
-theme_variables: 
-  git_host: GitHub
-  back_to_top: true
-  privacy_statement_url: /privacy
-  github_buttons: 
-    position: top
-    edit_me: false
-    open_issue: true
-    history: true
-  toc:
-    min_headers: 2
-    headers: 'h2'
-  topnav:
-    theme: light
-    brand_logo: assets/img/main_logo.svg
-    github: true
-    twitter: false
-  theme_color: 037EAB
-  fonts:
-    - url towards a font
+#-------------------------------
+# General Site Settings
+baseurl: "/fellowship" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
-sass:
-  style: compressed
-  sourcemap: never
+#-------------------------------
+# Build Settings
+markdown: kramdown
+permalink: /:title
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
 
-gtag: 
-# Google analytics tag
-
-# dsw_deep_link_prefix: https://researchers.ds-wizard.org/knowledge-models/dsw:root:latest/preview?questionUuid=
-# prefix for DSW deep links to a certain question
+paginate: 12
+paginate_path: "/latest/page/:num"
 
 
-exclude:
-  - .gitignore
-  - var/
-  - vendor
-  - Gemfile*
-  - LICENSE
-  - README.md
+#-------------------------------
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /latest/:slug
+  authors:
+    output: true
+    permalink: /:name
 
+# Pages Path
 defaults:
-  -
-    scope:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
       path: ""
       type: "pages"
     values:
-      permalink: /:basename
       layout: "page"
-      search_exclude: false
-  -
-    scope:
-      path: "pages/events/TEMPLATE_event.md"
-      type: "pages"
+  - scope:
+      path: ""
+      type: "posts"
     values:
-      sitemap: false
-      search_exclude: true
-      no_robots: true
-  -
-    scope:
-      path: "pages/rdmbites/TEMPLATE_collection.md"
-      type: "pages"
+      layout: "post"
+  - scope:
+      path: ""
+      type: "authors"
     values:
-      sitemap: false
-      search_exclude: true
-      no_robots: true
-  -
-    scope:
-      path: "pages/course-materials/TEMPLATE_course.md"
-      type: "pages"
-    values:
-      sitemap: false
-      sidebar: 
-      search_exclude: true
-      no_robots: true
-  -
-    scope:
-      path: "pages/events"
-    values:
-      type: events
-      datatable: false
-      sidebar: events
-  -
-    scope:
-      path: "pages/about"
-    values:
-      sidebar: about
-  -
-    scope:
-      path: "pages/training_materials"
-    values:
-      sidebar: training_materials
-      type: training_materials
-  -
-    scope:
-      path: "pages/training_materials/course_materials"
-    values:
-      type: course_materials
-  -
-    scope:
-      path: "pages/training_materials/rdmbites"
-    values:
-      type: RDMbites
-  -
-    scope:
-      path: "pages/training_materials/recommended_resources"
-    values:
-     type: recommended_resources
+      layout: "author"
 
-plugins:
-  - jemoji
-  - jekyll-redirect-from
-  - jekyll-sitemap
+
+sass:
+  sass_dir: _sass
+  style: compressed

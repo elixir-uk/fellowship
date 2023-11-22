@@ -1,0 +1,29 @@
+/* Scroll Button Top */
+.top {
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  color: var(--heading-font-color);
+  cursor: pointer;
+
+  &:hover {
+    .top__text {
+      text-decoration-color: var(--heading-font-color);
+    }
+  }
+
+  .top__text {
+    margin-left: 8px;
+    font-size: 15px;
+    text-decoration: underline;
+    text-decoration-color: transparent;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+  }
+
+  @media (max-width: $tablet) {
+    .top__text {
+      font-size: 14px;
+    }
+  }
+}
