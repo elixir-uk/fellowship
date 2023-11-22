@@ -1,4 +1,4 @@
-<img src="/imgages/main-logo.png" alt="ELXIR-UK Fellowship logo" width="200"/>
+<img src="/images/main-logo.png" alt="ELXIR-UK Fellowship logo" width="200"/>
 
 
 # ELIXIR-UK Fellowship
