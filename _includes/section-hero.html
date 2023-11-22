@@ -1,0 +1,26 @@
+{% if site.data.settings.hero.enable == true %}
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="hero__inner">
+          <div class="logo">
+            {% if site.data.settings.logo or site.data.settings.logo_dark %}
+              <img class="logo__image__hero" src="{{ site.baseurl }}{{ site.data.settings.logo }}" alt="{{ site.data.settings.title }}">
+              <img class="logo__image__dark__hero" src="{{ site.baseurl }}{{ site.data.settings.logo_dark }}" alt="{{ site.data.settings.title }}">
+            {% endif %}
+          </div>
+          {{ if site.data.settings.hero.hero_title }}
+          <h1 class="hero__title">{{ site.data.settings.hero.hero_title }}</h1>
+          {{ end }}
+          {{ if site.data.settings.hero.hero_description }}
+          <p class="hero__description">{{ site.data.settings.hero.hero_description }}</p>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
+{% endif %}

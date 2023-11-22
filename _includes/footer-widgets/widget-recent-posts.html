@@ -1,0 +1,52 @@
+<div class="col col-4 col-d-12">
+  <div class="widget-footer widget-recent-posts">
+    <h3 class="widget-title">Recent posts</h3>
+    {% for post in site.posts limit:2 %}
+    <div class="recent-posts">
+
+      {% if post.image %}
+      <div class="article__head">
+        <a href="{{ post.url | prepend: site.baseurl }}" class="recent-posts__image" aria-hidden="true" tabindex="-1">
+          {% if post.image and post.video_embed %}
+          <div class="video-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+              <polygon points="40,30 70,50 40,70"></polygon>
+            </svg>
+          </div>
+          {% endif %}
+          <img class="lazy" data-src="{{site.baseurl}}{{post.image}}" alt="{{post.title}}">
+        </a>
+      </div>
+      {% endif %}
+
+      <div class="recent-posts__content">
+
+        <div class="article__meta">
+          {% if post.tags.size >= 1 %}
+          <div class="article__tags">
+          {% for tag in post.tags %}
+            <a href="{{ site.baseurl }}/tags/?tag={{ tag | downcase | url_encode }}" class="article__tag">{{ tag }}</a>
+          {% endfor %}
+          </div>
+          {% endif %}
+          <span class="article__date">•<time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%d %-b, %Y" %}{{ post.date | date: date_format }}</time></span>
+        </div>
+
+        <h4 class="recent-posts__title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
+
+        <div class="article__info">
+          {% for username in post.author %}
+            <div>
+              {% assign author = site.authors | where: 'username', username | first %}
+              {% if author %}
+                <a class="article__author__name" href="{{ site.baseurl }}{{ author.url }}">{{ author.name }}</a>
+              {% endif %}
+            </div>
+          {% endfor %}
+        </div>
+
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,105 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col col-10 col-w-12">
+      <div class="post__head">
+  
+        <div class="post__meta">
+          {% if page.tags.size >= 1 %}
+          <div class="post__tags">
+          {% for tag in page.tags %}
+            <a href="{{ site.baseurl }}/tags/?tag={{ tag | downcase | url_encode }}" class="post__tag">{{ tag }}</a>
+          {% endfor %}
+          </div>
+          {% endif %}
+          <span class="article__date">•<time datetime="{{ page.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%d %-b, %Y" %}{{ page.date | date: date_format }}</time></span> 
+        </div>
+  
+        {% if page.title %}
+        <h1 class="post__title">{{ page.title | escape }}</h1>
+        {% endif %}
+  
+        {% if page.description %}
+        <div class="post__description">{{ page.description }}</div>
+        {% endif %}
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- begin post -->
+<div class="container">
+
+  <div class="row">
+    <div class="sidebar-left col col-3 col-w-4 col-d-12">
+      <aside class="sidebar">
+        {% include sidebar-widgets/widget-post-author.html %}
+        <!-- hide popular and featured topics widget
+        {% include sidebar-widgets/widget-featured-posts.html %}
+        {% include sidebar-widgets/widget-tags.html %}
+        -->
+      </aside>
+    </div>
+
+    <div class="col col-9 col-w-8 col-d-12">
+      <article class="post">
+    
+        {% if page.video_embed %}
+        <div class="post-video">
+          <div class="post-video__wrap">
+            <iframe src="https://www.youtube.com/embed/{{ page.video_embed }}" loading="lazy" width="640" height="320" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+          </div>
+        </div>
+
+        {% else %}
+      
+
+        <!-- Image container         
+        {%if page.image %}
+        <div class="post-image" style="width: 80%; margin-left: 1%;">
+          <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
+        </div>
+        {%endif %}
+        -->
+
+        {% endif %}
+
+        {% if page.go_to %}
+        <a class="button" href="{{ page.go_to }}" target="_blank" rel="noopener noreferrer">
+          Go to {{ page.link_tag }} <i class="fa fa-external-link"></i>
+        </a>
+        <br>
+        <br>
+        {% endif %}
+
+
+        <div class="post__content">
+          {{ content }}
+        </div>
+
+        <!-- Disabled sharing buttons
+        {% include share-buttons.html %}
+        -->
+
+      </article>
+    </div>
+
+  </div>
+</div>
+<!-- end post -->
+
+<!-- Disabled older/newer post section
+{% include post-navigation.html %}
+-->
+
+{% include related-posts.html %}
+
+<!--Disabled comments section
+{% if site.data.settings.disqus_identifier %}
+  {% include disqus-comments.html %}
+{% endif %}
+-->

@@ -1,0 +1,76 @@
+/* Hero */
+.hero {
+  margin: 48px 0;
+
+  .hero__inner {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .hero__title {
+    margin-bottom: 20px;
+    font-size: 60px;
+    line-height: 1.15;
+    color: var(--heading-font-color);
+  }
+  
+  .hero__description {
+    margin: 0 auto;
+    max-width: 560px;
+    font-size: 20px;
+    color: var(--text-alt-color);
+  }
+
+  &.hero--left {
+    .hero__title {
+      margin-bottom: 0;
+      font-size: 48px;
+    }
+  }
+
+  @media (max-width: $desktop) {
+    .hero__title {
+      font-size: 48px;
+    }
+  }
+
+  @media (max-width: $tablet) {
+    margin: 16px 0 32px;
+
+    .hero__title {
+      font-size: 35px;
+    }
+
+    .hero__description {
+      font-size: inherit;
+    }
+
+    &.hero--left {
+      .hero__title {
+        font-size: 35px;
+      }
+    }
+  }
+
+  @media (max-width: $mobile) {
+    .hero__inner {
+      text-align: left;
+    }
+
+    .hero__title {
+      margin-bottom: 16px;
+      font-size: 32px;
+    }
+
+    .hero__description {
+      font-size: 16px;
+    }
+
+    &.hero--left {
+      .hero__title {
+        font-size: 32px;
+      }
+    }
+  }
+}
