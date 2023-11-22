@@ -1,4 +1,4 @@
-<img src="/assets/img/main-logo.png" alt="ELXIR-UK Fellowship logo" width="200"/>
+<img src="/assets/imgages/main-logo.png" alt="ELXIR-UK Fellowship logo" width="200"/>
 
 
 # ELIXIR-UK Fellowship
@@ -24,7 +24,7 @@ The process documents and data are made available under a CC-BY license. More in
 This project is funded by the ELIXIR-UK: FAIR Data Stewardship training UKRI award (MR/V038966/1)
 <br>
 <br>
-<img src="/assets/img/funders.png" width="15%">
+<img src="/assets/images/funders.png" width="15%">
 <br>
 <br>
 This project uses the Danto Jekyll Theme created by [Artem Sheludko](https://github.com/artemsheludko) with bespoke features by [Mingkai Wang](https://github.com/Mingkai14) and [Xenia Perez Sitja](https://github.com/sitjart)
