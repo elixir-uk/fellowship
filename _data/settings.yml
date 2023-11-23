@@ -21,6 +21,8 @@ menu_settings:
       url: "/collections/"
     - title: "Activities"
       url: "/activities/"
+    - title: "Recommended resources"
+      url: "/training_materials"
     - title: "Community"
       submenu:
       - url: "/fellows/"

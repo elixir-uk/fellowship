@@ -3,7 +3,7 @@ layout: post
 title: Computer data security
 description: 
 date: 2022-08-30
-author: [e-karoune, e-gountona, r-andrews, m-andrabi]
+author: [e-karoune, e-gountouna, r-andrews, m-andrabi]
 image: /images/rdmbites.jpg
 video_embed: z4AGWDnukqs
 tag: [RDMbites, Data management essentials]
