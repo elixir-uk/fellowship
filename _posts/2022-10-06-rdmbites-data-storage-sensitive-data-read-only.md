@@ -3,7 +3,7 @@ layout: post
 title: Data storage of sensitive data. Read-only and encryption
 description: 
 date: 2022-10-06
-author: [e-karoune, e-gountona, r-andrews, m-andrabi]
+author: [e-karoune, e-gountouna, r-andrews, m-andrabi]
 image: /images/rdmbites.jpg
 video_embed: 4NxoWK0uAmk
 tag: [RDMbites, Data management essentials]

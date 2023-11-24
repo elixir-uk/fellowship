@@ -3,7 +3,7 @@ layout: post
 title: How to write a data sharing agreement between collaborators
 description: 
 date: 2022-10-06
-author: [e-karoune, e-gountona, r-andrews, m-andrabi]
+author: [e-karoune, e-gountouna, r-andrews, m-andrabi]
 image: /images/rdmbites.jpg
 video_embed: =iaZInoaHa04
 tag: [RDMbites, Data management essentials]

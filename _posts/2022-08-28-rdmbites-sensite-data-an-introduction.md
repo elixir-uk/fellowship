@@ -3,7 +3,7 @@ layout: post
 title: Sensitive data. An introduction
 description: 
 date: 2022-08-28
-author: [e-karoune, e-gountona, r-andrews, m-andrabi]
+author: [e-karoune, e-gountouna, r-andrews, m-andrabi]
 image: /images/rdmbites.jpg
 video_embed: 2PXFu33IGVU
 tag: [RDMbites, Data management essentials]

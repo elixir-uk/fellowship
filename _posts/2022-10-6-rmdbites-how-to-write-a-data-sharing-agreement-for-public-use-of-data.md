@@ -3,7 +3,7 @@ layout: post
 title: How to write a data sharing agreement for public use of data
 description: 
 date: 2022-10-06
-author: [e-karoune, e-gountona, r-andrews, m-andrabi]
+author: [e-karoune, e-gountouna, r-andrews, m-andrabi]
 image: /images/rdmbites.jpg
 video_embed: nKKyax_3k4A
 tag: [RDMbites, Data management essentials]
