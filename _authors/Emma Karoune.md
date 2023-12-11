@@ -8,7 +8,7 @@ github:
 orcid:
 ---
 
-## My interests
+## My interests
 
 I am interested in promoting a more inclusive research culture by embracing an open research approach in all of my work and advocating for this approach to others. Therefore, I want to enable other researchers to fill the skills gap that open research presents. This includes developing training in more sustainable data management such as using data management plans, planning for FAIR implementation and also the considerations needed for open data. I am particularly interested in how we can work with sensitive data to make it FAIR and also how we can build inclusive research communities to bring about more sustainable data sharing.
 
