@@ -12,7 +12,7 @@ I am interested in data standardisation in the context of genetic research. That
 
 
 
-## My work
+## My work
 
 I work in PomBase, the model organism database for fission yeast. We provide researchers with various data types that can be accessed on our website or used programmatically for bioinformatics. We offer gene sequences and features and a genome browser. Still, our most valuable data are manually curated literature annotations, including gene product function and localisation (Gene Ontology), phenotype annotations linked to underlying genotypes (Fission Yeast Phenotype Ontology), and protein sequence features and modifications.
 
