@@ -8,7 +8,7 @@ github:
 orcid:
 ---
 
-## My interests
+## My interests
 
 My research interests include natural resources management, research network facilitation, climate change, tropical forests, research data management and data-driven decision-making.
 
