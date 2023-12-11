@@ -6,7 +6,7 @@ role: Fellow
 cohort: 2nd
 ---
 
-## My interests
+## My interests
 
 I am interested in management of public health data (e.g. birth cohorts) captured through mixed methods and/or quasi-experimental study designs. The whole process of data management interests me; from data clean-up, visualization, reporting missing data, storage and data sharing policy. I have a keen interest in ensuring data capture from ethnic minority populations is representative, fair and fed back to the populations it came from. A fun fact about me is that my first statistics teacher was Anders Tegnell, the Swedish government’s well-known Public Health advisor during the COVID pandemic. I would like to think that his individual and free-thinking approach has fascinated my academic thinking to a great degree! 
 
