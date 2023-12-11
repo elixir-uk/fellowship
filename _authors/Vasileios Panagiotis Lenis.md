@@ -6,7 +6,7 @@ role: Fellow
 cohort: 2nd
 ---
 
-## My interests
+## My interests
 
 My research and training interests lie in a wide range of biological and biomedical sciences fields, from comparative genomics and evolutionary studies to neuroscience research and personalised medicine. I am interested in developing and delivering material in several aspects of bioinformatics and biological data management. My teaching philosophy is the generation of an opportunity to inspire and empower, comprised of a combination of course instruction and student mentorship. I’m aiming at fostering the acquisition of a base of concepts and learning skills to facilitate a person to engage in further learning and independent thinking.
 
