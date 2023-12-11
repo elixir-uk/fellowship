@@ -52,7 +52,7 @@ layout: default
 
   {% if post_count.size >= 1 %}
   <div class="container">
-    <h2 class="author__posts__count">{{ post_count.size }}{% if post_count.size < 2 %}Contribution{% else %} Contributions{% endif %}</h2>
+    <h2 class="author__posts__count">{{ post_count.size }} {% if post_count.size < 2 %}Contribution{% else %} Contributions{% endif %}</h2>
     <div class="row animate">
       {% for post in post_count %}
       <div class="col col-4 col-d-6 col-t-12">
