@@ -6,7 +6,7 @@ role: Fellow
 cohort: 2nd
 ---
 
-## My interests
+## My interests
 
 I am interested in all aspects of data and numerics. My research journey began as a PhD student in numerical analysis, followed by a three-year postdoctoral experience, focusing on developing theories, algorithms and software relating to numerical linear algebra. Then given an excellent opportunity to transition into biomedical sciences, my research has since mainly focused on applying statistical methods and machine learning techniques to biological and health problems.
 
