@@ -24,9 +24,11 @@ permalink: /mentors/
             <a class="authors__image" href="{{ site.baseurl }}{{ author.url }}"><img class="lazy" data-src="{{ author.image }}" alt="{{ author.name }}"></a>
             <div class="authors__meta">
               <h2 class="authors__name"><a class="authors__link" href="{{ site.baseurl }}{{ author.url }}">{{ author.name }}</a></h2>
+              <!-- hide post count
               {% if post_count.size >= 1 %}
               <span class="authors__posts__count">{{ post_count.size }} {% if post_count.size < 2 %}Contribution{% else %}Contributions{% endif %}</span>
               {% endif %}
+              -->
             </div>
             <div class="author__info">
               {% if author.role %}
