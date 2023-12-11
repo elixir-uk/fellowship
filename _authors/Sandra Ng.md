@@ -6,7 +6,7 @@ role: Fellow
 cohort: 2nd
 ---
 
-## My interests
+## My interests
 
 I am interested in promoting data deposition in public libraries, such as GEO, in enabling findable datasets, focusing on improving the quality and richness of clinical data, data standards and metadata.  My particular areas of interest are within IMIDs (immune-mediated inflammatory diseases, such as rheumatoid arthritis, psoriasis and Sjögren’s syndrome) and using clinical data with omics data in machine learning analyses.
 
