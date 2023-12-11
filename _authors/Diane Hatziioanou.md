@@ -8,7 +8,8 @@ github:
 orcid:
 ---
 
-## My interests
+
+## My interests
 
 I am an advocate of holistic science and collaboration across disciplines. My cross-disciplinary interests often lead me to note difficulties in data and knowledge management and how misunderstandings in these areas, as well as around sampling, representation and version control, lead to challenges in collaboration. I am interested in promoting ways of working which allow people to understand how to wed the big picture to the details and combat barriers to cooperation and scientific advancement.
 
