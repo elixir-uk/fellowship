@@ -8,10 +8,7 @@ github:
 orcid:
 ---
 
-
-
-
-## My interests
+## My interests
 
 My research background is in cognitive neuroscience, human neuroimaging and neurostimulation. Specifically, I have used magnetic resonance imaging (MRI) and transcranial magnetic stimulation (TMS) to investigate low-level auditory processing further. Through my own research, I became interested in novel and innovative ways of funding, conducting and sharing research. I am passionate about open research and improving research culture – I believe the growing momentum in these areas presents a huge opportunity to improve the quality of research and life for everyone involved in research (from support staff to research participants and, of course, researchers themselves). I also believe that research must become more interdisciplinary, collaborative, and decentralised to tackle current and future challenges, both in terms of specific research problems and broader threats to the research ecosystem itself, such as surveillance publishing.
 
