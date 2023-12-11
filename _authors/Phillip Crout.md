@@ -8,7 +8,7 @@ cohort: 2nd
 
 
 
-## My interests
+## My interests
 
 I’m interested in breaking down barriers between researchers and their open science goals. My journey began with academic software but has moved to more holistic approaches, hosting seminars and creating resources on data management. In addition, I am a culture leader within my institution, expressing my passion for a more just scientific community whenever possible. 
 
