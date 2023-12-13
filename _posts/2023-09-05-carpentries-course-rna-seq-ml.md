@@ -3,7 +3,7 @@ layout: post
 title: Carpentries course. RNA-Seq | Data readiness for machine learning applications
 description: A Carpentries course to machine learning readiness for RNA-seq data
 date: 2023-09-05
-author: [e-parkinson, m-andrabi]
+author: [e-parkinson, m-andrabi, k-kamieniecka]
 image: /images/carpentries.jpg
 tag: [Courses, Sequencing data, Machine learning]
 featured: true
