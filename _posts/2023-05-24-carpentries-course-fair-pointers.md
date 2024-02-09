@@ -7,7 +7,7 @@ author: [r-andrews, n-juty, m-andrabi, n-soranzo, s-morsy, k-snow, k-hens, p-roc
 image: /images/carpentries.jpg
 tag: [Courses, FAIR data]
 featured: true
-go_to: https://elixir-uk-dash.github.io/FAIR-Pointers 
+go_to: https://elixir-uk.github.io/FAIR-Pointers 
 link_tag: Carpentries course
 ---
 
