@@ -16,7 +16,7 @@ This is aimed at researchers who are working in the life sciences, and those who
 ### RDM-bites
 During the ELIXIR-UK DaSH Training Fellowship project, short, bite-sized videos were created to provide overviews and signposting for basic and specialised areas of research data management. Topics vary from data storage to working with sequencing data file types.
 These are recommended for anyone working in life sciences, or data management. As the videos are only a few minutes each, it’s possible to watch a whole topic in a short time!
-[Go to RDM-bites collection] (https://fellowship.elixiruknode.org/tags/?tag=RDMbites)
+[Go to RDM-bites collection](https://fellowship.elixiruknode.org/tags/?tag=RDMbites)
 
 ### How to FAIR
 
