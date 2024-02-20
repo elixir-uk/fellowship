@@ -76,6 +76,14 @@ layout: default
         <br>
         {% endif %}
 
+        {% if page.zenodo-doi %}
+        <a href="https://doi.org/{{ page.zenodo-doi }}" target="_blank" rel="noopener noreferrer"><img src="https://zenodo.org/badge/DOI/{{ page.zenodo-doi }}.svg" alt="DOI"></a>
+        <a class="button" href="{{ page.go_to }}" target="_blank" rel="noopener noreferrer">
+        <br>
+        <br>
+        {% endif %}
+        
+        
 
         <div class="post__content">
           {{ content }}
