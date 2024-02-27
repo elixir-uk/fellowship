@@ -7,11 +7,11 @@ author: [a-partridge, a-lister, s-sansone]
 image: /images/contribution-fairsharing.jpg
 tag: [Contribution to resources]
 featured: true
-go_to: file:///Users/Work/Downloads/FAIRsharing%20for%20you_%20librarians%20and%20trainers-1.pdf
+zenodo-doi: [10.5281/zenodo.8186609]
+go_to: https://doi.org/10.5281/zenodo.8186609
 link_tag: resource
 ---
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8186609.svg)](https://doi.org/10.5281/zenodo.8186609)
 
 This factsheet is an introduction to how FAIRsharing supports librarians, trainers and data stewards.
 
