@@ -5,7 +5,7 @@ description:
 date: 2023-10-04
 author: [s-ng, r-andrews, t-beck]
 image: /images/rdmbites.jpg
-video_embed: 4T4h4MhX60
+video_embed: iaZInoaHa04 
 tag: [RDMbites, Data management essentials]
 featured: true
 ---
