@@ -9,6 +9,7 @@ tag: [Outreach, FAIR data]
 featured: true
 go_to: 
 link_tag: publication
+zenodo-doi: [10.5281/zenodo.10149809]
 ---
 
 ## Genotype-to-phenotype annotations in knowledge bases
