@@ -7,16 +7,19 @@ image:
 
 ## Training
 
+### RDM-bites
+During the ELIXIR-UK DaSH Training Fellowship project, short, bite-sized videos were created to provide overviews and signposting for basic and specialised areas of research data management. Topics vary from data storage to working with sequencing data file types.
+These are recommended for anyone working in life sciences, or data management. As the videos are only a few minutes each, it’s possible to watch a whole topic in a short time!
+[Go to RDM-bites collection](https://fellowship.elixiruknode.org/tags/?tag=RDMbites)
+
+### FAIR Data managment training courses
+The courses were developed as part of the ELIXIR-UK DaSH Training Fellowship project, in the format of the Galaxy Training Network and The Carpentries Incubator. These trainings vary in length, approximately 1-3 hours, and can be self-taught, delivered online, or face-to-face. They cover a range of data management best practices when working with data related to clinical studies, DNA sequencing, single-cell RNA sequencing, bioimaging, agriculture, machine learning, and other research areas.
+
 ### FAIR in (biological) practice – Ed-DaSH
 The course has material on FAIR principles as well as RDM best practices. The great thing about this material is that it can be taught face-to-face as part of The Carpentries or be delivered online/on-demand.
 You do not need to have prior knowledge of data management to benefit from this course, but familiarity with spreadsheets (such as Excel) and a bio background will be helpful.
 This is aimed at researchers who are working in the life sciences, and those who wish to have a better understanding of Open Science and FAIR practices.
 [Go to training»](https://carpentries-incubator.github.io/fair-bio-practice/)
-
-### RDM-bites
-During the ELIXIR-UK DaSH Training Fellowship project, short, bite-sized videos were created to provide overviews and signposting for basic and specialised areas of research data management. Topics vary from data storage to working with sequencing data file types.
-These are recommended for anyone working in life sciences, or data management. As the videos are only a few minutes each, it’s possible to watch a whole topic in a short time!
-[Go to RDM-bites collection](https://fellowship.elixiruknode.org/tags/?tag=RDMbites)
 
 ### How to FAIR
 
