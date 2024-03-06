@@ -10,9 +10,10 @@ table,
 fieldset, figure,
 pre {
   margin-top: 32px;
+  margin-bottom: 5px;
 }
 
-h1, h2, address,
+h1, address,
 hr,
 table,
 fieldset, figure,
@@ -20,6 +21,7 @@ pre {
   margin-bottom: 32px;
 }
 
+h2,
 p {
   margin-bottom: 15px;
 }
