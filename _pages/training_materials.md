@@ -5,7 +5,13 @@ permalink: /training_materials/
 image: 
 ---
 
-## Training
+## Our Fellowship materials
+Explore the training resources developed by the ELIXIR-UK Fellowship with short courses and bite-size videos. You can reuse, adapt and customise them. 
+
+{% include recommended-resources.html %}
+
+## Other resources 
+See below a list of relevant external resources for longer, more extensive training or other web resources relevant to RDM and FAIR data. 
 
 ### FAIR in (biological) practice – Ed-DaSH
 The course has material on FAIR principles as well as RDM best practices. The great thing about this material is that it can be taught face-to-face as part of The Carpentries or be delivered online/on-demand.
@@ -21,7 +27,6 @@ This online web resource is a fantastic option for those involved with data mana
 
 [Go to training»](https://howtofair.dk/)
 
-## Web resources
 
 ### RDMkit
 Recommended in the Horizon Europe Program Guide as the “resource for Data Management guidelines and good practices for the Life Sciences”, RDMkit is an open community project that has become the go-to for resources based on best practice and guidelines of FAIR data management in the life sciences.
@@ -40,7 +45,6 @@ This is a fantastic resource for anyone working in the life sciences, especially
 
 [Go to resource»](https://www.go-fair.org/fair-principles/)
 
-## Visual resources
 
 ### FAIRsharing Educational
 This collection of infographics and factsheets provides high-level information on a variety of topics relevant to FAIRsharing content across a spectrum of users and in all disciplines. This is an excellent resource with content written by the FAIRsharing team and community champions in the field of FAIR research data management.
