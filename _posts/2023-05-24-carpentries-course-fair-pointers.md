@@ -8,7 +8,7 @@ image: /images/carpentries.jpg
 tag: [Courses, FAIR data]
 featured: true
 go_to: https://elixir-uk.github.io/FAIR-Pointers 
-link_tag: Carpentries course
+link_tag: course
 ---
 
 ## Audience and content

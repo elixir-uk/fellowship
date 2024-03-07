@@ -8,7 +8,7 @@ image: /images/carpentries.jpg
 tag: [Courses, Plant data]
 featured: true
 go_to: https://carpentries-incubator.github.io/fair-data-management-agriculture/
-link_tag: Carpentries course
+link_tag: course
 ---
 
 ### Who is this lesson for?

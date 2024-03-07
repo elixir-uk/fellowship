@@ -8,7 +8,7 @@ image: /images/carpentries.jpg
 tag: [Courses, Sequencing data, Machine learning]
 featured: true
 go_to: https://carpentries-incubator.github.io/rna-seq-data-for-ml
-link_tag: Carpentries course
+link_tag: course
 ---
 
 This lesson provides a practical guide to sourcing and pre-processing a bulk RNA-Seq dataset for use in a machine learning classification task. The lessons explains the characteristics of a dataset required for this type of analysis, how to search for and download a dataset from each of the main public functional genomics repositories, and then provides guidelines on how to pre-process a dataset to make it machine learning ready, with detailed examples. The lesson finally explains some of the additional data filtering and transformation steps that will improve the performance of machine learning algorithms using RNA-Seq count data.
