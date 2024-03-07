@@ -7,7 +7,7 @@ author: [s-ng, t-beck, k-kamieniecka]
 image: /images/gtn-tutorial.jpg
 tag: [Courses, FAIR data, Health data]
 go_to: https://gxy.io/GTN:T00368
-link_tag: GTN tutorial
+link_tag: course
 featured: true 
 ---
 
