@@ -8,7 +8,7 @@ image: /images/gtn-tutorial.jpg
 tag: [Courses, Sequencing data]
 featured: true
 go_to: https://gxy.io/GTN:T00369
-link_tag: GTN tutorial
+link_tag: course
 ---
 
 In this Galaxy Training Network tutorial you will learn:
