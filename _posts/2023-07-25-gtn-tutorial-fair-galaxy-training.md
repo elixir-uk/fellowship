@@ -8,7 +8,7 @@ image: /images/gtn-tutorial.jpg
 tag: [Courses, FAIR data]
 featured: true
 go_to: https://gxy.io/GTN:T00350
-link_tag: GTN tutorial
+link_tag: course
 ---
 
 
