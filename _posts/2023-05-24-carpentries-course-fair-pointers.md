@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Carpentries course. FAIR Pointers
+title: FAIR Pointers
 description: A short course tackling the basic concepts and terminology of FAIR data
 date: 2023-05-24
 author: [r-andrews, n-juty, m-andrabi, n-soranzo, s-morsy, k-snow, k-hens, p-rocca, l-cooper, x-perez, a-mason, b-franicevic, s-lawson, k-poterlowicz, k-kamieniecka]
