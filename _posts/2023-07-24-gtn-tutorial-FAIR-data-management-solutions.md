@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  GTN tutorial. FAIR data management solutions
+title:  FAIR data management solutions
 description: A tutorial discussing a FAIR data management framework
 date:   2023-09-27
 author: [k-kamieniecka, k-poterlowicz]
