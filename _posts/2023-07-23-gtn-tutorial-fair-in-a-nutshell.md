@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  GTN tutorial. FAIR in a nutshell
+title:  FAIR in a nutshell
 description: A short introduction to the FAIR principles and their origin
 date:   2023-07-23
 author: [k-kamieniecka, k-poterlowicz]
