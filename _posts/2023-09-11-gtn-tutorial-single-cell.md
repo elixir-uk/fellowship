@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GTN tutorial. Filter, plot and explore single-cell RNA-seq data
+title: Filter, plot and explore single-cell RNA-seq data
 description: A Galaxy Training Tutorial to filter plot and explore single-cell RNA seq data using Scanpy
 date: 2023-09-11
 author: [j-jakiela, w-bacon]
