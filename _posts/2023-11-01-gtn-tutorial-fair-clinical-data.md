@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GTN tutorial. Making clinical datasets FAIR
+title: Making clinical datasets FAIR
 description: A short tutorial on managing metadata for FAIR clinical datasets.
 date: 2023-11-01
 author: [s-ng, t-beck, k-kamieniecka]
