@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GTN tutorial. REMBI, Recommended Metadata for Biological Images – metadata guidelines for bioimaging data
+title: REMBI, Recommended Metadata for Biological Images – metadata guidelines for bioimaging data
 description: A GTN tutorial exploring REMBI, Recommended Metadata for Biological Images
 date: 2023-09-11
 author: [l-cooper, j-jakiela, k-kamieniecka, k-poterlowicz]
