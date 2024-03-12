@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Carpentries course. FAIR Data Management for Long-term agriculture experiments 
+title: FAIR Data Management for Long-term agriculture experiments 
 description: A Carpentries course aimed at long-term agricultural experiment (LTE) managers
 date: 2023-06-30
 author: [r-ostler]

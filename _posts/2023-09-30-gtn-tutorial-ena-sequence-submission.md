@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GTN tutorial. Sequence data submission to ENA
+title: Sequence data submission to ENA
 description: GTN tutorial for those new to sequenced data submission to a repository
 date: 2023-09-30
 author: [s-henson, m-andrabi, k-kamieniecka]

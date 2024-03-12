@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GTN tutorial. FAIR Bioimage Metadata
+title: FAIR Bioimage Metadata
 description: A short GTN tutorial addressing the basic principles of FAIR bioimage metadata
 date: 2023-09-11
 author: [l-cooper, j-jakiela, k-kamieniecka, k-poterlowicz]

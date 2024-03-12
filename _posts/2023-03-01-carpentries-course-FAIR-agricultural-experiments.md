@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Carpentries course. FAIR data management for long-term agricultural experiments
+title: FAIR data management for long-term agricultural experiments
 description: A short GTN tutorial addressing the basic principles of FAIR bioimage metadata
 date: 2023-03-01
 author: [r-ostler]
