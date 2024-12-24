@@ -18,7 +18,7 @@ To me, it is this connectivity – the relationships among the people as well as
 
 Even [Arnold Schwarzenegger believes](https://twitter.com/Schwarzenegger/status/863428100473933825) that every success is built through community. The community of digital objects and their relationships elevate research; this is why FAIR and open have gained so much traction, as they enable those relationships to be defined and identified. Researchers need the community to enact the research data lifecycle.
 
-![Figure 1](images/harvard-data-sharing-life-cycle.png "Figure 1: The research data life cycle, credit https://datamanagement.hms.harvard.edu/")
+![Figure 1](/images/harvard-data-sharing-life-cycle.png "Figure 1: The research data life cycle, credit https://datamanagement.hms.harvard.edu/")
 
 * Plan & Design: Plan processes from onboarding to project closure and data resources
 * Collect & Create: Organization and integration of data sets and collection processes
@@ -31,7 +31,7 @@ Aspects that require a strong community:
 
 Community protects against duplication of effort, creates a stable research environment, and ensures diversity of roles, people, and organisations. In short, researchers need a community to enact high-quality research; conferences, infrastructures, projects, and a wide array of common goals are just a few of the methods through which modern research communities engage.  
 
-![Figure 2](images/connections-fairsharing.png "Figure 2: Community engagement ensures diversity. A small subset of FAIRsharing Champions, together with just a few of the communities they are related to, shows how quickly rich connections form.")
+![Figure 2](/images/connections-fairsharing.png "Figure 2: Community engagement ensures diversity. A small subset of FAIRsharing Champions, together with just a few of the communities they are related to, shows how quickly rich connections form.")
 
 
 ### Enhancing collaboration: Data Stewardship Wizard meets FAIRsharing
@@ -48,13 +48,13 @@ DMPs play the crucial role of outlining researchers' intentions in following bes
 
 To build effective DMPs, authors of those DMPs must be able to unambiguously and explicitly identify and name the community standards (e.g., terminologies, models, formats, minimal information requirements) and databases (repositories, knowledgebases) appropriate for describing and sharing their type of digital object (e.g., datasets, software, survey) within their discipline(s), as well as know the requirements of their funder’s policy. Given the wealth of standards and databases, knowing what to choose is often not accessible for researchers and those supporting them.s
 
-![Figure 3](images/fairsharing-dsw-interaction-use-case.png "Figure 3: Data Stewardship Wizard uses FAIRsharing to provide as-you-type functionality to users who need to list the standards and databases relevant to their DMPs.")
+![Figure 3](/images/fairsharing-dsw-interaction-use-case.png "Figure 3: Data Stewardship Wizard uses FAIRsharing to provide as-you-type functionality to users who need to list the standards and databases relevant to their DMPs.")
 
 The current integration between the DSW and FAIRsharing provides as-you-type hints for standards and database,, a functionality that many tools powered by FAIRsharing have. However, with this new collaboration, we go a step further and make FAIRsharing the single ‘trusted point of truth’ for DSW users with regards to standards, databases and policies, providing them with an unprecedented ‘select with confidence’ ability.
 
 These features within DSW are enabled by the rich and curated description of standards, databases and policies in FAIRsharing, with tags by disciplines and interlinks according to their relations. For example, in a given discipline, specific representation models for datasets require one or more terminologies to describe the parts; these models and terminologies are essential for the submission of the dataset to one or more databases. Therefore knowing what set of standards to use and for which database is critical, and the relationships in FAIRsharing will provide the necessary interlinked content that will help the DSW users in a way that is not done by any DMP platform to date. 
 
-![Figure 4](images/fairsharing-dsw-interaction-use-case-2.png "Figure 4: Data Stewardship Wizard’s new features use FAIRsharing to provide as-you-type hints for policies. Where these policies recommend specific standards and databases, that information will be available to users as they choose the resources associated with their DMP.")
+![Figure 4](/images/fairsharing-dsw-interaction-use-case-2.png "Figure 4: Data Stewardship Wizard’s new features use FAIRsharing to provide as-you-type hints for policies. Where these policies recommend specific standards and databases, that information will be available to users as they choose the resources associated with their DMP.")
 
 ### Key features: Making FAIR data management easier
 
