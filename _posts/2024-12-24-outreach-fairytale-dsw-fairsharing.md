@@ -4,7 +4,7 @@ title: "FAIRytale. Joining up the research data management dots: how improving c
 description: A a personal story about working with FAIR data
 date: 2024-12-24
 author: [a-lister]
-image: /images/banner-different-faces.jpg
+image: /images/outreach-fairytales.jpg
 tag: [Outreach, FAIR data]
 featured: true
 go_to: 

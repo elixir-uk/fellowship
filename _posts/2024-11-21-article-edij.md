@@ -4,7 +4,7 @@ title: EDIJ and Decolonisation in Data Management
 description: An in-depth article to understand the concept of decolonisation and EDIJ considerations in the field of data management. 
 date: 2024-11-21
 author: [c-loughrey]
-image: /images/outreach-fairytales.jpg
+image: /images/banner-different-faces.jpg
 tag: [Outreach, EDIJ]
 featured: true
 link_tag: publication
