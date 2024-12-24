@@ -15,7 +15,7 @@ zenodo-doi: [10.5281/zenodo.14197307]
 
 Data management is an integral aspect of all research, encompassing the effective handling of data collected and used in a study. Data can take many forms, and does not only include the numerical datasets most think of initially, but also physical samples and documents, images and even recordings of sound. The data cycle is composed of multiple stages which govern the process of collecting, using and sharing data in research; whilst each stage has some unique sub-tasks within it, there are also many overlapping aspects to each. Figure 1 illustrates the data cycle and the main tasks associated with each component of the cycle.
 
-![Biorender association of tasks](images/edij-data-management-figure.png "Figure 1: The Data Cycle and the major tasks associated with each stage.** Information for this figure was taken from the ELIXIR website. Created in Biorender.")
+![Biorender association of tasks](/images/edij-data-management-figure.png "Figure 1: The Data Cycle and the major tasks associated with each stage.** Information for this figure was taken from the ELIXIR website. Created in Biorender.")
 
 ## What are decolonisation and EDIJ?
 
@@ -101,7 +101,7 @@ Within different sub-disciplines of biology and health research, different issue
 
 ### Neglected Tropical Disease research
 
-![airview of peatland](images/mosquito-disease.jpg)
+![airview of peatland](/images/mosquito-disease.jpg)
 
 Research into the Neglected Tropical Diseases (NTDs) has historically involved injustice and exclusion. Indeed, the field of tropical medicine was founded due to imperialist enterprise and is inherently intertwined with the colonialist project (Bump and Aniebo, 2022). Nowadays the field is far more focussed on the well-being of the local communities impacted by these diseases and there is a strong drive to increase participation of both local researchers and patients from endemic areas. 
 
@@ -113,7 +113,7 @@ Collection methods cannot be exploitative in any way (Bull and Bhagwandin), and 
 
 ### Ecology and Conservation research
 
-![close up view of mosquito](images/river-and-swamps.jpg)
+![close up view of mosquito](/images/river-and-swamps.jpg)
 
 Ecology and conservation work also provides a useful way to consider EDIJ and decolonisation in a field which generally does not include many human participants directly in the research being conducted; these concepts are still highly applicable here however. Again, the key question is always whether the data collected has the potential to do harm, either via the original research proposal or subsequent work if the data is shared. For example, the knowledge of a species of plant with significant medicinal benefits can cause damage to a local ecosystem and the people living in the area if it becomes overexploited by third parties for financial gain, so the benefits and risks of open access to the full data need to be examined carefully in these sorts of scenarios. 
 
